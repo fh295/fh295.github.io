@@ -1,4 +1,8 @@
-theme: jekyll-theme-slate
+<<<<<<< HEAD
+theme: jekyll-theme-cayman
 title: "Felix Hill"
 description: "A personal website"
 show_downloads: false
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 29e4e5cd3538ed0c0d09f33071fbc7d303f49438
