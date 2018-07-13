@@ -16,7 +16,7 @@ Before I joined Deepmind, I worked on XXX
 
 
 
-##### What sort of researcher am I?
+##### Other stuff
 
 I was once asked in a job interview “what sort of researcher are you?’. I didn’t have authoritative answer, and, on reflection, I hope I never do. Categories are useful for some things, but bad things tend to happen if put them onto people too easily.
 
