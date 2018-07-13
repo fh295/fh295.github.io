@@ -4,8 +4,6 @@ I am a Research Scientist at DeepMind.
 
 My work aims to replicate in artificial systems how we as humans learn, process, represent and use semantic concepts and language. 
 
-### Research Themes
-
 #### Embodied language learning
 
 Children learn to understand language at the same time they learn to perceive, interact-with, explain and make predictions about the world around them. Evidence suggests that our linguistic knowledge depends critically on sensory-motor and perceptual representations and processes, which in turn are influenced and shaped by our language. My work simulates this process of acquiring language jointly with perceptual and motor processes as a path to realistic language understanding in fully embodied systems. We have found that systems capable of acquiring abstract knowledge via interaction with data of multiple modalities should, like humans, exploit multiple complementary learning algorithms.
@@ -20,6 +18,10 @@ Before I joined Deepmind, I worked on XXX
 
 
 
-##### Other stuff
+##### What sort of researcher am I?
 
-I was once asked in a job interview “what sort of researcher are you?’. I didn’t have authoritative answer, and, on reflection, I hope I never do. Categories are useful for some things, but I don’t think they should be used to group people into tribes or otherwise reach quick conclusions about work. 
+I was once asked in a job interview “what sort of researcher are you?’. I didn’t have authoritative answer, and, on reflection, I hope I never do. Categories are useful for some things, but bad things tend to happen if put them onto people too easily.
+
+When not working, things I like to do include football, running, yoga, travelling and relaxing.
+
+
