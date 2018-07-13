@@ -1,7 +1,5 @@
 
 
-I am a Research Scientist at DeepMind. 
-
 My work aims to replicate in artificial systems how we as humans learn, process, represent and use semantic concepts and language. 
 
 #### Embodied language learning
