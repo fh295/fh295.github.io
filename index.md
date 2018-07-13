@@ -1,10 +1,10 @@
 
 
-My work aims to replicate in artificial systems how we as humans learn, process, represent and use semantic concepts and language. 
+My work aims to replicate in artificial systems how we as humans *learn*, *represent* and *use* both language and semantic concepts in general. 
 
 #### Embodied language learning
 
-Children learn to understand language at the same time they learn to perceive, interact-with, explain and make predictions about the world around them. Evidence suggests that our linguistic knowledge depends critically on sensory-motor and perceptual representations and processes, which in turn are influenced and shaped by our language. My work simulates this process of acquiring language jointly with perceptual and motor processes as a path to realistic language understanding in fully embodied systems. We have found that systems capable of acquiring abstract knowledge via interaction with data of multiple modalities should, like humans, exploit multiple complementary learning algorithms.
+Children learn to understand language while learning to perceive, interact-with, explain and make predictions about the world around them. Our linguistic knowledge depends critically on sensory-motor and perceptual processes, which in turn are influenced and shaped by our language. My work simulates this process of acquiring language jointly with perceptual and motor processes as a path to realistic language understanding in fully embodied systems. With many brilliant collaborators at Deepmind, I have developed agents that can learn from raw experience the meaning of words and short phrases as they pertain to perceptual stimuli and complex action sequences in continuous 3D worlds. Our agents can naturally compose known words to successfully interpret never-seen-before phrases, a trait that matches the productivity of human language understanding. The most efficient language learning is achieved by agents that exploit multiple complementary learning algorithms, another property of human language learning.
 
 #### Perception and abstraction
 
