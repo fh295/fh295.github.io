@@ -1,6 +1,6 @@
 
 
-I work on replicating in artificial systems how we as humans *learn*, *represent* and *use* language and semantic concepts in general. 
+I work on replicating in artificial systems how we as humans *learn*, *represent* and *use* language and semantic concepts. 
 
 #### Embodied language learning
 
