@@ -8,7 +8,7 @@ Children learn to understand language while learning to perceive, interact-with,
 
 #### Perception and abstraction
 
-A child might learn what growing means by observing a sibling, a pet or a plant get physically bigger, but once understood, the same idea of growing can be applied to pocket money, a tummy ache or Dad’s age. This ability to represent relations, principles or ideas like ‘growing’ with sufficient abstraction that they can be flexibly (re-)applied in disparate, and potentially unfamiliar, contexts and domains is [central to human cognition and language](https://www.youtube.com/watch?v=n8m7lFQ3njk).  [Our work](https://arxiv.org/abs/1807.04225) has shown that this ability can be replicated in distributed learning systems like neural networks, but that particular algorithms and training experience are required to induce representations of sufficient abstraction. 
+A child might learn what growing means by observing a sibling, a pet or a plant get physically bigger, but once understood, the same idea of growing can be applied to pocket money, a tummy ache or Dad’s age. This ability to represent relations, principles or ideas like ‘growing’ with sufficient abstraction that they can be flexibly (re-)applied in disparate, and potentially unfamiliar, contexts and domains is [central to human cognition and language](https://www.youtube.com/watch?v=n8m7lFQ3njk). Our work studies how this ability [can be replicated in distributed learning systems like neural networks](https://arxiv.org/abs/1807.04225). 
 
 #### Language understanding from textual and linguistic resources
 
