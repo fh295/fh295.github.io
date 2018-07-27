@@ -5,7 +5,7 @@
 
 This course was first taught for [MPhil Students at Cambridge University Computer Lab in 2018](https://www.cl.cam.ac.uk/teaching/1718/R228/), by Stephen Clark and Felix Hill with guest lectures from the brilliant [Ed Grefenstette](http://egrefen.com/) and [Chris Dyer](http://www.cs.cmu.edu/~cdyer/).
 
-The course gave a basic introduction to artificial neural networks and the sometimes overlooked question of ***why*** these are appropriate models for language processing. We then covered some more advanced topics, finishing with some of the embodied and situated language learning research done at DeepMind. 
+The course gave a basic introduction to artificial neural networks, including the sometimes overlooked question of ***why these are appropriate models for language processing***. We then covered some more advanced topics, finishing with some of the embodied and situated language learning research done at DeepMind. 
 
 #### Lectures and slides
 
