@@ -40,10 +40,11 @@ With [Steve Clark](https://sites.google.com/site/stephenclark609/) I taught a Ma
 <br/>
 ## Recent talks
 
-* Kenote address, First [Mexican International Meeting on Artificial Intelligence](https://riiaa.org/speakers/).
+* Kenote address, First [Mexican International Meeting on Artificial Intelligence](https://riiaa.org/speakers/), August 2018.
 
-* Kenote address, 39th [TabuDag](https://www.let.rug.nl/tabudag/keynotes.php) meeting of linguists, Groningen, Netherlands. 
+* Kenote address, 39th [TabuDag](https://www.let.rug.nl/tabudag/keynotes.php) meeting of linguists, Groningen, Netherlands, June 2018. 
 
+* Video talks @ MSR Redmond (2016) and ICLR 2016, San Juan, Puerto Rico.
 <div style="float: left; margin-left: 5px;">
 <iframe width="230" height="180" src="https://www.youtube.com/embed/a0BVuPCjqyg?start=10" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
