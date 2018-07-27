@@ -1,7 +1,7 @@
 
 
 ### I work on replicating in artificial systems how we as humans ***learn***, ***represent*** and ***use*** language and semantic concepts 
-<br/>
+
 ## Embodied language learning
 
 <div style="float: left;">
@@ -41,7 +41,7 @@ With [Steve Clark](https://sites.google.com/site/stephenclark609/) I taught a Ma
 * Kenote address, 39th [TabuDag](https://www.let.rug.nl/tabudag/keynotes.php) meeting of linguists, Groningen, Netherlands. 
 
 <div style="float: left;">
-<iframe width="230" height="170" src="http://videolectures.net/iclr2016_hill_goldilocks_principle/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[<img src="http://videolectures.net/iclr2016_hill_goldilocks_principle/thumb.jpg">](http://videolectures.net/iclr2016_hill_goldilocks_principle/)
 </div>
 <div style="float: left; margin-left: 20px;">
 <iframe width="230" height="170" src="https://www.youtube.com/embed/a0BVuPCjqyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
