@@ -23,7 +23,7 @@ With [Steve Clark](https://sites.google.com/site/stephenclark609/) I taught a Ma
 
 Kenote address, First [Mexican International Meeting on Artificial Intelligence](https://riiaa.org/speakers/).
 
-Kenote address, 39th [TabuDag] for linguists(https://www.let.rug.nl/tabudag/keynotes.php), Groningen, Netherlands. 
+Kenote address, 39th [TabuDag](https://www.let.rug.nl/tabudag/keynotes.php) meeting of linguists, Groningen, Netherlands. 
 
 #### Other stuff
 
