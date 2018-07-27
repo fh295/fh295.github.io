@@ -1,15 +1,15 @@
 
 
-####I work on replicating in artificial systems how we as humans ***learn***, ***represent*** and ***use*** language and semantic concepts 
+#### I work on replicating in artificial systems how we as humans ***learn***, ***represent*** and ***use*** language and semantic concepts 
 <br/>
 ## Embodied language learning
 
 <div style="float: left;">
-<iframe width="230" height="170" src="https://www.youtube.com/embed/9vY8D4wuEV0?start=4&autoplay=1" frameborder="1" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="230" height="170" src="https://www.youtube.com/embed/9vY8D4wuEV0?start=4&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <div style="float: left; margin-left: 20px;">
-<iframe width="230" height="170" src="https://www.youtube.com/embed/07S-x3MkEoQ?start=45&autoplay=1" frameborder="1" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="230" height="170" src="https://www.youtube.com/embed/07S-x3MkEoQ?start=45&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <div style="clear:both;"></div>
 
@@ -26,26 +26,23 @@ A child might learn what growing means by observing a sibling, a pet or a plant 
 During my PhD, I worked with [Anna Korhonen](http://www.cl.cam.ac.uk/~alk23/) on ways to extract and represent meaning from text and other language data in distributed representations. I developed FastSent and Sequential Denoising Auto-Encoders, ways to learn [sentence representations from unlabelled text](http://www.aclweb.org/anthology/N16-1162). With [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) and [Kyunghyun Cho](http://www.kyunghyuncho.me/home), I noticed you can train a network on [dictionary definitions](http://www.aclweb.org/anthology/Q16-1002) to [solve general-knowledge crosswords clues](https://docs.google.com/gview?url=http://www.cl.cam.ac.uk/~fh295/crossword.pdf). With [Jase Weston](https://research.fb.com/people/weston-jason/) and [Antoine Bordes](https://research.fb.com/people/bordes-antoine/) I applied neural networks with external memory components to answer questions about [passages in books](https://arxiv.org/pdf/1511.02301.pdf). I also made [SimLex-999](http://www.cl.cam.ac.uk/~fh295/simlex.html "SimLex") a way to measure how well distributed representations reflect human semantic intuitions.  
 
 <br/>
-### [Teaching](teaching.md)
+## [Teaching](teaching.md)
 
 
 With [Steve Clark](https://sites.google.com/site/stephenclark609/) I taught a Master's course [Deep Learning for NLP](teaching.md) at the Computer Laboratory, Cambridge University in 2018. If you follow that link you can find the synopsis, lecture slides and [Tensorflow code for training neural networks on dictionary definitions](https://github.com/fh295/Cambridge_DL4NLP). We got nice feedback, and hope to do the course again (somewhere) soon. 
 
 <br/>
-### Recent talks
+## Recent talks
 
 * Kenote address, First [Mexican International Meeting on Artificial Intelligence](https://riiaa.org/speakers/).
 
 * Kenote address, 39th [TabuDag](https://www.let.rug.nl/tabudag/keynotes.php) meeting of linguists, Groningen, Netherlands. 
 
 <div style="float: left;">
-<a href='http://videolectures.net/iclr2016_hill_goldilocks_principle/'>
-  <img src='http://videolectures.net/iclr2016_hill_goldilocks_principle/thumb.jpg' border=0/>
-  <br/>The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations</a><br/>
+<iframe width="230" height="170" src="http://videolectures.net/iclr2016_hill_goldilocks_principle/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
 <div style="float: left; margin-left: 20px;">
-<iframe width="230" height="170" src="https://www.youtube.com/embed/a0BVuPCjqyg?&autoplay=1" frameborder="1" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="230" height="170" src="https://www.youtube.com/embed/a0BVuPCjqyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <div style="clear:both;"></div>
 
