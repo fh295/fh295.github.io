@@ -1,6 +1,6 @@
 
 
-#### I work on replicating in artificial systems how we as humans ***learn***, ***represent*** and ***use*** language and semantic concepts 
+### I work on replicating in artificial systems how we as humans ***learn***, ***represent*** and ***use*** language and semantic concepts 
 <br/>
 ## Embodied language learning
 
@@ -17,6 +17,8 @@ Children learn to understand language while learning to [perceive, interact-with
 
 <br/>
 ## Perception and abstraction
+
+![matrices opt]({{site.}} /matrices-opt.gif)
 
 A child might learn what growing means by observing a sibling, a pet or a plant get physically bigger, but once understood, the same idea of growing can be applied to pocket money, a tummy ache or Dad’s age. This ability to represent relations, principles or ideas like ‘growing’ with sufficient abstraction that they can be flexibly (re-)applied in disparate, and potentially unfamiliar, contexts and domains is [central to human cognition and language](https://www.youtube.com/watch?v=n8m7lFQ3njk). Our work studies how this ability [can be replicated in distributed learning systems like neural networks](https://arxiv.org/abs/1807.04225). 
 
@@ -47,7 +49,7 @@ With [Steve Clark](https://sites.google.com/site/stephenclark609/) I taught a Ma
 <div style="clear:both;"></div>
 
 <br/>
-#### Other stuff
+### Other stuff
 
 I started doing [cognitive science](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12076) before I did any computational linguistics. And before that, I got a Master's in [pure maths](https://www.ox.ac.uk/admissions/undergraduate/courses-listing/mathematics-and-philosophy?wssl=1).
 
