@@ -6,11 +6,11 @@
 ### Embodied language learning
 
 <div style="float: left;">
-[wonderplugin_video iframe="https://www.youtube.com/watch?v=_mMKNw_Mlxs" lightbox=1 lightboxsize=1 lightboxwidth=960 lightboxheight=480 showimage="https://img.youtube.com/vi/_mMKNw_Mlxs/0.jpg" videowidth=240 videoheight=180 keepaspectratio=1 autoplay=1 videocss="position:relative;display:block;background-color:#000;overflow:hidden;max-width:100%;margin:0 auto;" playbutton="https://www.wonderplugin.com/wp-content/plugins/wonderplugin-videoembed/engine/playvideo-64-64-1.png"]
+<iframe width="280" height="180" src="https://www.youtube.com/embed/9vY8D4wuEV0?autoplay=1" frameborder="1" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <div style="float: left; margin-left: 12px;">
-[wonderplugin_video iframe="https://www.youtube.com/watch?v=pChmieCDWpo" lightbox=1 lightboxsize=1 lightboxwidth=960 lightboxheight=480 showimage="https://img.youtube.com/vi/pChmieCDWpo/0.jpg" videowidth=240 videoheight=180 keepaspectratio=1 autoplay=1 videocss="position:relative;display:block;background-color:#000;overflow:hidden;max-width:100%;margin:0 auto;" playbutton="https://www.wonderplugin.com/wp-content/plugins/wonderplugin-videoembed/engine/playvideo-64-64-1.png"]
+<iframe width="280" height="180" src="https://www.youtube.com/embed/9vY8D4wuEV0?autoplay=1" frameborder="1" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <div style="clear:both;"></div>
 
