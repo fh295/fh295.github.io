@@ -1,10 +1,21 @@
 
 
-I work on replicating in artificial systems how we as humans ***learn***, ***represent*** and ***use*** language and semantic concepts. 
+#####I work on replicating in artificial systems how we as humans ***learn***, ***represent*** and ***use*** language and semantic concepts. 
 
+<br/>
 ### Embodied language learning
 
-<iframe width="280" height="157" src="https://www.youtube.com/embed/9vY8D4wuEV0?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div style="float: left;">
+[wonderplugin_video iframe="https://www.youtube.com/watch?v=_mMKNw_Mlxs" lightbox=1 lightboxsize=1 lightboxwidth=960 lightboxheight=480 showimage="https://img.youtube.com/vi/_mMKNw_Mlxs/0.jpg" videowidth=240 videoheight=180 keepaspectratio=1 autoplay=1 videocss="position:relative;display:block;background-color:#000;overflow:hidden;max-width:100%;margin:0 auto;" playbutton="https://www.wonderplugin.com/wp-content/plugins/wonderplugin-videoembed/engine/playvideo-64-64-1.png"]
+</div>
+
+<div style="float: left; margin-left: 12px;">
+[wonderplugin_video iframe="https://www.youtube.com/watch?v=pChmieCDWpo" lightbox=1 lightboxsize=1 lightboxwidth=960 lightboxheight=480 showimage="https://img.youtube.com/vi/pChmieCDWpo/0.jpg" videowidth=240 videoheight=180 keepaspectratio=1 autoplay=1 videocss="position:relative;display:block;background-color:#000;overflow:hidden;max-width:100%;margin:0 auto;" playbutton="https://www.wonderplugin.com/wp-content/plugins/wonderplugin-videoembed/engine/playvideo-64-64-1.png"]
+</div>
+<div style="clear:both;"></div>
+
+<iframe width="280" height="180" src="https://www.youtube.com/embed/9vY8D4wuEV0?autoplay=1" frameborder="1" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 Children learn to understand language while learning to [perceive, interact-with, explain and make predictions about the world around them](http://psycnet.apa.org/record/1973-30971-000). Our linguistic knowledge depends critically on [sensory-motor and perceptual processes](https://www.tandfonline.com/doi/abs/10.1080/17470210701623605), which in turn are influenced and shaped by our language. My work simulates this process of acquiring language jointly with perceptual and motor processes as a path to realistic language understanding in fully embodied systems. With many brilliant collaborators at Deepmind, I have developed [agents that can learn the meaning of words and short phrases as they pertain to perceptual stimuli and complex action sequences]((https://arxiv.org/pdf/1706.06551.pdf)) in continuous [3D worlds](https://github.com/deepmind/lab). These agents naturally compose known words to successfully interpret never-seen-before phrases, a trait that matches the productivity of human language understanding. We also showed that learning is much more efficient if agents [exploit multiple complementary learning algorithms](https://arxiv.org/abs/1710.09867), another property of [human language learning](https://www.ncbi.nlm.nih.gov/pubmed/7624455).
 
