@@ -43,11 +43,10 @@ With [Steve Clark](https://sites.google.com/site/stephenclark609/) I taught a Ma
 
 <div style="float: left; margin-left: 20px;">
 <iframe width="230" height="180" src="https://www.youtube.com/embed/a0BVuPCjqyg?start=10" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</a>
 </div>
 <div style="float: left; margin-left: 20px;">
 <a href="http://videolectures.net/iclr2016_hill_goldilocks_principle/">
-<img border="0" alt="W3Schools" src="http://videolectures.net/iclr2016_hill_goldilocks_principle/thumb.jpg" width="230" height="180">
+<img border="0" alt="W3Schools" src="http://videolectures.net/iclr2016_hill_goldilocks_principle/thumb.jpg" width="230" height="180"></a>
 </div>
 <div style="clear:both;"></div>
 
