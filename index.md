@@ -14,7 +14,7 @@ A child might learn what growing means by observing a sibling, a pet or a plant 
 
 During my PhD, I worked with [Anna Korhonen](http://www.cl.cam.ac.uk/~alk23/) on ways to extract and represent meaning from text and other language data in distributed representations. I developed FastSent and Sequential Denoising Auto-Encoders, ways to learn [sentence representations from unlabelled text](http://www.aclweb.org/anthology/N16-1162). With [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) and [Kyunghyun Cho](http://www.kyunghyuncho.me/home), I noticed you can train a network on [dictionary definitions](http://www.aclweb.org/anthology/Q16-1002) to [solve general-knowledge crosswords clues](https://docs.google.com/gview?url=http://www.cl.cam.ac.uk/~fh295/crossword.pdf). With [Jase Weston](https://research.fb.com/people/weston-jason/) and [Antoine Bordes](https://research.fb.com/people/bordes-antoine/) I applied neural networks with external memory components to answer questions about [passages in books](https://arxiv.org/pdf/1511.02301.pdf). I also made [SimLex-999](http://www.cl.cam.ac.uk/~fh295/simlex.html "SimLex") a way to measure how well distributed representations reflect human semantic intuitions.  
 
-### Teaching
+### [Teaching](teaching.md)
 
 With [Steve Clark](https://sites.google.com/site/stephenclark609/) I taught a Master's course [Deep Learning for NLP](teaching.md) at the Computer Laboratory, Cambridge University in 2018. If you follow that link you can find the synopsis, lecture slides and [Tensorflow code for training neural networks on dictionary definitions](https://github.com/fh295/Cambridge_DL4NLP). We got nice feedback, and hope to do the course again (somewhere) soon. 
 
