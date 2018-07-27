@@ -34,10 +34,20 @@ With [Steve Clark](https://sites.google.com/site/stephenclark609/) I taught a Ma
 <br/>
 ### Recent talks
 
-Kenote address, First [Mexican International Meeting on Artificial Intelligence](https://riiaa.org/speakers/).
+* Kenote address, First [Mexican International Meeting on Artificial Intelligence](https://riiaa.org/speakers/).
 
-Kenote address, 39th [TabuDag](https://www.let.rug.nl/tabudag/keynotes.php) meeting of linguists, Groningen, Netherlands. 
+* Kenote address, 39th [TabuDag](https://www.let.rug.nl/tabudag/keynotes.php) meeting of linguists, Groningen, Netherlands. 
 
+<div style="float: left;">
+<a href='http://videolectures.net/iclr2016_hill_goldilocks_principle/'>
+  <img src='http://videolectures.net/iclr2016_hill_goldilocks_principle/thumb.jpg' border=0/>
+  <br/>The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations</a><br/>
+</div>
+
+<div style="float: left; margin-left: 20px;">
+<iframe width="230" height="170" src="https://www.youtube.com/embed/a0BVuPCjqyg?&autoplay=1" frameborder="1" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<div style="clear:both;"></div>
 
 <br/>
 #### Other stuff
