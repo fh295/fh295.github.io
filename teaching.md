@@ -1,6 +1,8 @@
 
 ### Deep Learning for Language Processing
 
+![alt text](dictionary.png, "")
+
 This course was first taught for [MPhil Students at Cambridge University Computer Lab in 2018](https://www.cl.cam.ac.uk/teaching/1718/R228/), by Stephen Clark and Felix Hill with guest lectures from the brilliant [Ed Grefenstette](http://egrefen.com/) and [Chris Dyer](http://www.cs.cmu.edu/~cdyer/).
 
 The course gave a basic introduction to artificial neural networks and, most importantly (for me at least), why we would want to use these models for language processing. We then covered some more advanced topics, finishing with some of the embodied and situated language learning research done at DeepMind. 
@@ -27,8 +29,6 @@ The course gave a basic introduction to artificial neural networks and, most imp
 #### Practical exercises and code
 
 As a practical exercise, students had to experiment with training neural network models to map from a dictionary definitions to a distributed representation of the work that definition defines, as explained in the paper [Learning to Understand Phrases by Embedding the Dictionary](http://www.aclweb.org/anthology/Q16-1002).
-
-![dictionary image](dictionary.png, "")
 
 If you want to try it yourself, you could start with the code [here](https://github.com/fh295/Cambridge_DL4NLP) perhaps following some of the instructions [here](https://www.cl.cam.ac.uk/teaching/1718/R228/practical/PracticalInstructions.pdf).
 The dictionary data (described in those instructions) can be found [here](https://www.cl.cam.ac.uk/~sc609/downloads/data_practical.tgz). Note that for assorted reasons out of our control, this is not exactly the same data as used in the experiments in the (paper)[http://www.aclweb.org/anthology/Q16-1002], so your results won't be directly comparable with the results reported there. 
