@@ -1,7 +1,7 @@
 
 ### Deep Learning for Language Processing
 
-![alt text](dictionary.png "")
+![alt text]({{ site.url }}/dictionary.png)
 
 This course was first taught for [MPhil Students at Cambridge University Computer Lab in 2018](https://www.cl.cam.ac.uk/teaching/1718/R228/), by Stephen Clark and Felix Hill with guest lectures from the brilliant [Ed Grefenstette](http://egrefen.com/) and [Chris Dyer](http://www.cs.cmu.edu/~cdyer/).
 
