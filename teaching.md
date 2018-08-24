@@ -21,7 +21,7 @@ The course gave a basic introduction to artificial neural networks, including th
 10. Machine Comprehension (Grefenstette) [slides](https://www.cl.cam.ac.uk/teaching/1718/R228/lectures/lec11.pdf)
 11. Convolutional Neural Networks (Hill) [slides](https://www.cl.cam.ac.uk/teaching/1718/R228/lectures/lec12.pdf)
 12. Sentence Representations (Grefenstette) [slides](https://www.cl.cam.ac.uk/teaching/1718/R228/lectures/lec13.pdf)
-13. Sentence Representations (Hill) [slides](https://www.cl.cam.ac.uk/teaching/1718/R228/lectures/lec13.pdf)
+13. Sentence Representations (Hill) [slides](L13.pdf)
 14. Image Captioning (Clark) [slides](https://www.cl.cam.ac.uk/teaching/1718/R228/lectures/lec14.pdf)
 15. Situated Language Learning (Hill) [slides](https://www.cl.cam.ac.uk/teaching/1718/R228/lectures/lec15.pdf)
 
