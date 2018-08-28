@@ -40,7 +40,7 @@ With [Steve Clark](https://sites.google.com/site/stephenclark609/) I taught a Ma
 <br/>
 ## Recent talks
 
-* Kenote address, First [Mexican International Meeting on Artificial Intelligence](https://riiaa.org/speakers/), August 2018.
+* Kenote address, First [Mexican International Meeting on Artificial Intelligence](https://riiaa.org/transmision/) (in Spanish), August 2018.
 
 * Kenote address, 39th [TabuDag](https://www.let.rug.nl/tabudag/keynotes.php) meeting of linguists, Groningen, Netherlands, June 2018. 
 
