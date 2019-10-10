@@ -24,8 +24,8 @@ A child might learn what *growing* means by observing a sibling, a pet or a plan
 
 <br/>
 <br/>
-## Measuring generalisation in neural networks
-I don't think it makes sense to attribute good or bad generalisation to a particular model, model class or functional form. Models with strong inductive bias suited to a particular problem can exhibit impressive generalisation on domains related to that problem. On the other hand, more general architectures with greater variance may be effective on a wider range of problems, but may need a [specific curriculum of training experience](https://openreview.net/pdf?id=SylLYsCcFm) in order to exhibit strong generalisation. Hybrid approaches, such as our [Neural Arithmetic Logic Unit](https://arxiv.org/abs/1808.00508), can represent the best of both worlds; the unit itself introduces a strong inductive bias suited to the extrapolation of numerical quantities, but models that include NALUs alongside conventional architectural components can retain general applicability to non-numerical problems as well.
+## Generalisation in neural networks
+Models with strong inductive bias suited to a particular problem can exhibit impressive generalisation on domains related to that problem. On the other hand, more general architectures with greater variance may be effective on a wider range of problems, but may need a [specific curriculum of training experience](https://openreview.net/pdf?id=SylLYsCcFm) in order to exhibit strong generalisation. Hybrid approaches, such as our [Neural Arithmetic Logic Unit](https://arxiv.org/abs/1808.00508), can represent the best of both worlds; the unit itself introduces a strong inductive bias suited to the extrapolation of numerical quantities, but models that include NALUs alongside conventional architectural components can retain general applicability to non-numerical problems as well.
 
 <br/>
 <br/>
