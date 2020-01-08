@@ -1,11 +1,13 @@
 
 
-### I work on replicating in artificial systems how we as humans ***learn***, ***represent*** and ***use*** language
+### I work on replicating in artificial systems how we as humans ***learn*** and ***use*** natural language
 <br/>
 
 ## Why language?
 
 Natural language is interesting because, unlike formal languages, mathematics or logic, it is isn't compositional. People often think language is compositional. If you are one of those, check out my micro-blog, [NonCompositional](non_compositional.md).
+
+<br/>
 
 ## Embodied language learning
 
