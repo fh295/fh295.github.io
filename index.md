@@ -5,7 +5,7 @@
 
 ## Why language?
 
-Natural language is interesting because, unlike formal languages, mathematics or logic, it is isn't compositional. People often think language is compositional. If you are one of those, check out my micro-blog, [NonCompositional](non_compositional.md).
+Natural language is interesting because, unlike formal languages, mathematics or logic, it is isn't compositional. People often think language is compositional. If you are one of those, check out my micro-blog, [NonCompositional](noncompositional.md).
 
 <br/>
 
