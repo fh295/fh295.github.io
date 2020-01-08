@@ -1,3 +1,3 @@
 # NonCompositional
 
-A Twitter-sized blog about language. Preconceived ideas may be challenged. 
+A Twitter-length blog about language.
