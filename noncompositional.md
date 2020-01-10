@@ -2,7 +2,7 @@
 
 A Twitter-length blog about language and cognition. Written in a rush, because time flies like an arrow (whereas fruit flies like a banana). 
 
-<br/><br/>
+<br/>
 
 ### Building a situation representation
 
@@ -24,6 +24,7 @@ The context on which language understanding depends is very often perceptual or 
 
 <sub> *McClelland, J. L. (1992). Can connectionist models discover the structure of natural language?* </sub>
 
+<br/>
 ### Top-down vs. bottom-up
 
 How we interpret any language sequence depends on (1) what's in that sequence (2) the immediate "context" around that sequence *and* (3) our knowledge of how the world works. Look here:
@@ -38,6 +39,7 @@ Help me out here: what's compositional about that?
 
 <sub> *Rumelhart, D. E. (1976). Toward an interactive model of reading* </sub>
 
+<br/>
 ### Word disorder
 
 Languages differ in the extent to which the order of words affects the meaning. 
