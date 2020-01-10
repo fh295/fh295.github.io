@@ -2,6 +2,8 @@
 
 A Twitter-length blog about language and cognition. Written in a rush, because time flies like an arrow (whereas fruit flies like a banana). 
 
+Each entry is also a chain of Tweets. To respond and engage, just [follow me on Twitter](https://twitter.com/felixhill84?lang=en)
+
 <br/>
 
 ### Building a situation representation
@@ -55,3 +57,5 @@ Latin is a free-word-order language too. So Nero or Augustus might have behaved 
 <sub> *Hale, Kenneth L, Mary Laughren, and Jane Simpson. 1995. Warlpiri.'XXI. Syntactic Sketches' in Syntax. An International Handbook of Contemporary Research.* </sub>
 
 <sub>  *Evans, N., & Levinson, S. C. (2009). The myth of language universals: Language diversity and its importance for cognitive science. Behavioral and brain sciences, 32(5), 429-448.* </sub>
+
+>> More to follow soon
