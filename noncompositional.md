@@ -29,7 +29,7 @@ Ref: *McClelland, J. L. (1992). Can connectionist models discover the structure 
 How we interpret any language sequence depends on (1) what's in that sequence (2) the immediate "context" around that sequence *and* (3) our knowledge of how the world works. Look here:
 
 <p align="center">
-  <img width="600" src="letterperception.gif">
+  <img width="600" src="letterperception.png">
 </p>
 
 We read the ambiguous highlighted character as 'w' in one context and 'ev' in another. Phrase or word perceptions depend trivially on letter perceptions but crucially letter perceptions also depend on word or phrase perceptions. The dependency goes both up *and* down the stack of abstraction. 
