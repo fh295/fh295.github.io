@@ -5,7 +5,7 @@
 
 ## Why language?
 
-Natural language is interesting because, unlike formal languages, mathematics or logic, it is isn't compositional. People often think language is compositional. If you are one of those, check out my micro-blog, [NonCompositional](noncompositional.md).
+Natural language is interesting because, unlike formal languages, mathematics or logic, it is isn't really *compositional*. People often think language is compositional. If you are one of those people, check out my micro-blog, [NonCompositional](noncompositional.md).
 
 <br/>
 
@@ -20,14 +20,22 @@ Natural language is interesting because, unlike formal languages, mathematics or
 </div>
 <div style="clear:both;"></div>
 
-Children learn to understand language while learning to [perceive, interact-with, explain and make predictions about the world around them](http://psycnet.apa.org/record/1973-30971-000). Our linguistic knowledge depends critically on [sensory-motor and perceptual processes](https://www.tandfonline.com/doi/abs/10.1080/17470210701623605), which in turn are influenced and shaped by our language. My work simulates this process of acquiring language jointly with perceptual and motor processes as a path to realistic language understanding in fully embodied systems. With many brilliant collaborators at Deepmind, I have developed [agents that can learn the meaning of words and short phrases as they pertain to perceptual stimuli and complex action sequences](https://arxiv.org/pdf/1706.06551.pdf) in continuous [3D worlds](https://github.com/deepmind/lab). These agents naturally compose known words to successfully interpret never-seen-before phrases, a trait that matches the productivity of human language understanding. Further analysis showed that learning is much more efficient if agents [exploit multiple complementary learning algorithms](https://arxiv.org/abs/1710.09867), another property of [human language learning](https://www.ncbi.nlm.nih.gov/pubmed/7624455). We developed [AGILE](https://arxiv.org/pdf/1806.01946.pdf), an algorithm that jointly learns a instruction-conditioned reward function and a policy for realising that instruction. This provides a solution to a critical challenge for training agents to follow language commands; that the truth conditions of most linguistic expressions are typically [very hard to express formally](https://en.wikipedia.org/wiki/Philosophical_Investigations) (e.g. in a programmed reward function). 
+Children learn to understand language while learning to [perceive, interact-with, explain and make predictions about the world around them](http://psycnet.apa.org/record/1973-30971-000). Our linguistic knowledge depends critically on [sensory-motor and perceptual processes](https://www.tandfonline.com/doi/abs/10.1080/17470210701623605), which in turn are influenced and shaped by our language. 
+
+My work simulates this process of acquiring language jointly with perceptual and motor processes as a path to realistic language understanding in fully embodied systems. With many brilliant collaborators at Deepmind, I have developed [agents that can learn the meaning of words and short phrases as they pertain to perceptual stimuli and complex action sequences](https://arxiv.org/abs/1910.00571) in [3D worlds](https://github.com/deepmind/lab). These agents naturally compose known words to successfully interpret never-seen-before phrases, a trait that matches the productivity of human language understanding. 
+
+We have also showed that learning is much more efficient if agents [exploit multiple complementary learning algorithms](https://arxiv.org/abs/1710.09867), another property of [human language learning](https://www.ncbi.nlm.nih.gov/pubmed/7624455). 
+
+You may also be interested in [AGILE](https://arxiv.org/pdf/1806.01946.pdf), an algorithm that jointly learns a instruction-conditioned reward function and a policy for realising that instruction. This provides a solution to a critical challenge for training agents to follow language commands; that the truth conditions of most linguistic expressions are typically [very hard to express formally](https://en.wikipedia.org/wiki/Philosophical_Investigations) (e.g. in a programmed reward function). 
 
 <br/>
 ## Perception, abstraction and analogy
 
 <img align="left" src="matrices-opt.gif" width="200" hspace="20">
 
-A child might learn what *growing* means by observing a sibling, a pet or a plant get physically bigger, but once understood, the same idea of growing can be applied to pocket money, a tummy ache or Dad’s age. This ability to represent relations, principles or ideas like *growing* with sufficient abstraction that they can be flexibly (re-)applied in disparate, and potentially unfamiliar, contexts and domains is [central to human cognition, analogical reasoning and language](https://www.youtube.com/watch?v=n8m7lFQ3njk). My work has shown that neural networks that combine raw perception from pixels, together with components for reasoning across discrete sets of images, can exhibit strong analogical reasoning and impressive generalisation [if trained in a particular way](https://openreview.net/pdf?id=SylLYsCcFm). Similar models can also be trained to solve visual reasoning tasks [that challenge even the most able humans](https://arxiv.org/abs/1807.04225); our dataset of these problems is available for further research [here](https://github.com/deepmind/abstract-reasoning-matrices).
+A child might learn what *growing* means by observing a sibling, a pet or a plant get bigger, but once understood, the same idea of growing can be applied to pocket money, a tummy ache or Dad’s age. This ability to represent relations, principles or ideas like *growing* with sufficient abstraction that they can be flexibly (re-)applied in disparate, and potentially unfamiliar, contexts and domains is [central to human cognition, analogical reasoning and language](https://www.youtube.com/watch?v=n8m7lFQ3njk). 
+
+Colleagues and I have shown that neural networks that combine raw perception from pixels, together with components for reasoning across discrete sets of images, can exhibit strong analogical reasoning and impressive generalisation [if trained in a particular way](https://openreview.net/pdf?id=SylLYsCcFm). Similar models can also be trained to solve visual reasoning tasks [that challenge even the most able humans](https://arxiv.org/abs/1807.04225); our dataset of these problems is available for further research [here](https://github.com/deepmind/abstract-reasoning-matrices).
 
 <br/>
 <br/>
@@ -49,7 +57,7 @@ During my PhD, I worked with [Anna Korhonen](http://www.cl.cam.ac.uk/~alk23/) on
 With [Steve Clark](https://sites.google.com/site/stephenclark609/) I taught a Master's course [Deep Learning for NLP](teaching.md) at the Computer Laboratory, Cambridge University in 2018. If you follow that link you can find the synopsis, lecture slides and [Tensorflow code for training neural networks on dictionary definitions](https://github.com/fh295/Cambridge_DL4NLP). We got nice feedback, and hope to do the course again (somewhere) soon. 
 
 <br/>
-## Recent talks
+## Videos and talks
 
 * Kenote address, First [Mexican International Meeting on Artificial Intelligence](https://riiaa.org/transmision/) (in Spanish), August 2018.
 
