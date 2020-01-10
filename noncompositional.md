@@ -2,7 +2,9 @@
 
 A Twitter-length blog about language.
 
-### Building a situation representation
+<br/><br/>
+
+## Building a situation representation
 
 First, think about whether this sentence makes sense or not.  
 
@@ -16,13 +18,13 @@ Now [click here](parachute.md)
 
 <br/>
 
-Strangely, if they watch the gif above a few times then read the sentence, they say it's perfectly coherent. 
+Now read the sentence again. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *__The haystack was important because the cloth ripped__*
 
-The context on which language understanding depends is very often perceptual or social.
+Most people say that after clicking on the link, then reading the sentence, it now makes sense to them.
 
-What's compositional about that? 
+The context on which language understanding depends is very often perceptual or social. Understanding language involves constructing a representation of a scene based on how we understand the world. 
 
 *McClelland, J. L. (1992). Can connectionist models discover the structure of natural language?*
 
