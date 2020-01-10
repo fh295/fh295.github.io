@@ -46,11 +46,11 @@ Help me out here: what's compositional about that?
 
 Languages differ in the extent to which the order of words affects the meaning. 
 
-For English it's pretty important. In *man bites dog*, *man* being first tells us that the man did the biting. But this could also be marked directly on the words, e.g. with inflections (bite dog *man<sub>itwasme!</sub>*).
+For English it's pretty important. In *man bites dog*, *man* being first tells us that the man did the biting. But this could also be marked directly on the words, e.g. with inflections (*bites dog man<sub>itwasme!</sub>*).
 
 The Australian language Warlpiri has entirely arbitrary word order. When you ask a Warlpiri native speaker to repeat an utterance directly back to you, more often than not they alter the word order, apparently without realizing.
 
-There are no more native speakers of Latin, but Nero or Augustus might have behaved similarly.
+Latin is a free-word-order language too. So Nero or Augustus might have behaved similarly.
 
 <sub> *Hale, Kenneth L, Mary Laughren, and Jane Simpson. 1995. Warlpiri.'XXI. Syntactic Sketches' in Syntax. An International Handbook of Contemporary Research.* </sub>
 
