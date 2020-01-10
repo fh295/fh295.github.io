@@ -12,6 +12,7 @@ Most people say it seems grammatical but is incoherent. Perhaps it was generated
 
 <br/><br/>
 <img align="left" src="parachute.gif" width="500" hspace="20">
+<br/><br/>
 
 Strangely, if they watch the gif above a few times then read the sentence, they say it's perfectly coherent. 
 
