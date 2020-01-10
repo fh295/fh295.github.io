@@ -4,7 +4,7 @@ A Twitter-length blog about language and cognition. Written in a rush, because t
 
 <br/><br/>
 
-## Building a situation representation
+### Building a situation representation
 
 First, think about whether this sentence makes sense or not.  
 
@@ -22,9 +22,9 @@ Most people say that after clicking on the link, the sentence now makes sense to
 
 The context on which language understanding depends is very often perceptual or social. Understanding language involves constructing a representation of a scene based on how we understand the world. 
 
-Ref: *McClelland, J. L. (1992). Can connectionist models discover the structure of natural language?*
+<sub> *McClelland, J. L. (1992). Can connectionist models discover the structure of natural language?* </sub>
 
-## Top-down vs. bottom-up
+### Top-down vs. bottom-up
 
 How we interpret any language sequence depends on (1) what's in that sequence (2) the immediate "context" around that sequence *and* (3) our knowledge of how the world works. Look here:
 
@@ -36,9 +36,9 @@ We read the ambiguous highlighted character as 'w' in one context and 'ev' in an
 
 Help me out here: what's compositional about that?  
 
-Ref: *Rumelhart, D. E. (1976). Toward an interactive model of reading*
+<sub> *Rumelhart, D. E. (1976). Toward an interactive model of reading* </sub>
 
-## Word disorder
+### Word disorder
 
 Languages differ in the extent to which the order of words affects the meaning. 
 
@@ -48,6 +48,6 @@ The Australian language Warlpiri has entirely arbitrary word order. When you ask
 
 There are no more native speakers of Latin, but Nero or Augustus might have behaved similarly.
 
-Refs: *Hale, Kenneth L, Mary Laughren, and Jane Simpson. 1995. Warlpiri.'XXI. Syntactic Sketches' in Syntax. An International Handbook of Contemporary Research.*
+<sub> *Hale, Kenneth L, Mary Laughren, and Jane Simpson. 1995. Warlpiri.'XXI. Syntactic Sketches' in Syntax. An International Handbook of Contemporary Research.*
 
-*Evans, N., & Levinson, S. C. (2009). The myth of language universals: Language diversity and its importance for cognitive science. Behavioral and brain sciences, 32(5), 429-448.*
+*Evans, N., & Levinson, S. C. (2009). The myth of language universals: Language diversity and its importance for cognitive science. Behavioral and brain sciences, 32(5), 429-448.* </sub>
