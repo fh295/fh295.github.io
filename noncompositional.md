@@ -25,6 +25,7 @@ The context on which language understanding depends is very often perceptual or 
 <sub> *McClelland, J. L. (1992). Can connectionist models discover the structure of natural language?* </sub>
 
 <br/>
+
 ### Top-down vs. bottom-up
 
 How we interpret any language sequence depends on (1) what's in that sequence (2) the immediate "context" around that sequence *and* (3) our knowledge of how the world works. Look here:
@@ -40,6 +41,7 @@ Help me out here: what's compositional about that?
 <sub> *Rumelhart, D. E. (1976). Toward an interactive model of reading* </sub>
 
 <br/>
+
 ### Word disorder
 
 Languages differ in the extent to which the order of words affects the meaning. 
@@ -50,6 +52,6 @@ The Australian language Warlpiri has entirely arbitrary word order. When you ask
 
 There are no more native speakers of Latin, but Nero or Augustus might have behaved similarly.
 
-<sub> *Hale, Kenneth L, Mary Laughren, and Jane Simpson. 1995. Warlpiri.'XXI. Syntactic Sketches' in Syntax. An International Handbook of Contemporary Research.*
+<sub> *Hale, Kenneth L, Mary Laughren, and Jane Simpson. 1995. Warlpiri.'XXI. Syntactic Sketches' in Syntax. An International Handbook of Contemporary Research.* </sub>
 
-*Evans, N., & Levinson, S. C. (2009). The myth of language universals: Language diversity and its importance for cognitive science. Behavioral and brain sciences, 32(5), 429-448.* </sub>
+<sub>  *Evans, N., & Levinson, S. C. (2009). The myth of language universals: Language diversity and its importance for cognitive science. Behavioral and brain sciences, 32(5), 429-448.* </sub>
