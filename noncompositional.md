@@ -52,7 +52,9 @@ For English it's pretty important. In *man bites dog*, *man* being first tells u
 
 The Australian language Warlpiri has entirely arbitrary word order. When you ask a Warlpiri native speaker to repeat an utterance directly back to you, more often than not they alter the word order, apparently without realizing.
 
-Latin is a free-word-order language too. So Nero or Augustus might have behaved similarly.
+When you think about it, that's kind of wild! They just don't notice the word order, it doesn't enter their memory. A bit like when we as English speakers can't hear the difference between *bruder* (German for 'brother') and *brüder* ('brothers').
+
+Latin is a free-word-order language too. So Nero or Augustus might have had the same 'disorder'.
 
 <sub> *Hale, Kenneth L, Mary Laughren, and Jane Simpson. 1995. Warlpiri.'XXI. Syntactic Sketches' in Syntax. An International Handbook of Contemporary Research.* </sub>
 
