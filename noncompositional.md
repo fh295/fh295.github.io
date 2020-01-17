@@ -38,6 +38,10 @@ How we interpret any language sequence depends on (1) what's in that sequence (2
 
 We read the ambiguous highlighted character as 'w' in one context and 'ev' in another. Phrase or word perceptions depend trivially on letter perceptions but crucially letter perceptions also depend on word or phrase perceptions. The dependency goes both up *and* down the stack of abstraction. 
 
+This isn't a special quirk of reading and orthography. Top-down effects also affact how we hear sounds. Look here:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">These break my brain <a href="https://t.co/0tgko0BBm6">pic.twitter.com/0tgko0BBm6</a></p>&mdash; The Layman&#39;s Linguist (@LaymansLinguist) <a href="https://twitter.com/LaymansLinguist/status/1212778825697939456?ref_src=twsrc%5Etfw">January 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Help me out here: what's compositional about that?  
 
 <sub> *Rumelhart, D. E. (1976). Toward an interactive model of reading* </sub>
