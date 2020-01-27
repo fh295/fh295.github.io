@@ -64,6 +64,8 @@ Latin is a free-word-order language too. So Nero or Augustus might have had the 
 
 <sub>  *Evans, N., & Levinson, S. C. (2009). The myth of language universals: Language diversity and its importance for cognitive science. Behavioral and brain sciences, 32(5), 429-448.* </sub>
 
+<br/>
+
 ### Polysynthetic languages
 
 [Ray Mooney](https://www.cs.utexas.edu/~mooney/) famously doubted whether [the meaning of a sentence could fit into a single vector](https://www.cs.utexas.edu/~mooney/cramming.html), but polysynthetic languages cram the meaning of a sentence into a single word.
@@ -83,15 +85,20 @@ Well, like words in English, speakers agree on exactly where they begin and end,
 <sub> *Mithun. 1983. The genius of polysynthesis. North American Indians: Humanistic Perspectives. University of Oklahoma Papers in Anthropology 24(2)* </sub>
 
 <sub> *Evans, N. & Sasse, H. –J., eds. (2002) Problems of polysynthesis. Akademie Verlag.* </sub>
+
 <br/>
+
 ### My favourite treatments of compositionality in the literature
+
 <br/>
 
 [Compositionality](
 https://adele.princeton.edu/wp-content/uploads/sites/277/2019/12/Compositionality-Routledge.pdf) by [Adele Goldberg](https://en.wikipedia.org/wiki/Adele_Goldberg_(linguist))
 
 <br/>
+
 [A Case for Deep Learning in Semantics](https://web.stanford.edu/~cgpotts/temp/pater-commentary-by-potts.pdf) by [Christopher Potts](https://web.stanford.edu/~cgpotts/)
+
 &nbsp; .... <sub>*The usual story is that compositionality is crucial to our ability
 to produce and understand creative new combinations of linguistic units, because it offers
 guarantees about the systematicity and predictability of new units. However, these observations alone do not imply compositionality. The interpretation of a given phrase could be
@@ -100,5 +107,8 @@ the speaker, the discourse situation, and so forth. And, indeed, it seems to me 
 everyday experiences with language are in keeping with this. Listeners greedily use all sorts
 of information when making sense of others’ utterances, and speakers assume they will do
 this.*</sub> ...
+
+<br/>
+<br/>
 
 >> More to follow soon
