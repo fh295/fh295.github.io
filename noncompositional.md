@@ -90,7 +90,6 @@ Well, like words in English, speakers agree on exactly where they begin and end,
 
 ### My favourite treatments of compositionality in the literature
 
-<br/>
 
 [Compositionality](
 https://adele.princeton.edu/wp-content/uploads/sites/277/2019/12/Compositionality-Routledge.pdf) by [Adele Goldberg](https://en.wikipedia.org/wiki/Adele_Goldberg_(linguist))
