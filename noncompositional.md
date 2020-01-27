@@ -66,7 +66,7 @@ Latin is a free-word-order language too. So Nero or Augustus might have had the 
 
 ### Polysynthetic languages
 
-*Polysynthetic* languages cram a whole sentence into a single word.
+[Ray Mooney](https://www.cs.utexas.edu/~mooney/) famously doubted whether [the meaning of a sentence could fit into a single vector](https://www.cs.utexas.edu/~mooney/cramming.html), but polysynthetic languages cram the meaning of a sentence into a single word.
 
 In the Australian language Bininj Gun-wok, *abanyawoihwarrgahmarneganjginjeng* means (approximately) "I cooked the wrong meat for them again."
 
@@ -80,18 +80,18 @@ Does it make sense to say that these languages have a single word for a whole se
 
 Well, like words in English, speakers agree on exactly where they begin and end, and unlike sentences in English, they agree exactly on where any stress should be placed, and they don't accept periods of pause in the middle.
 
-<sub> * Mithun. 1983. The genius of polysynthesis. North American Indians: Humanistic Perspectives. University of Oklahoma Papers in Anthropology 24(2) </sub>
+<sub> *Mithun. 1983. The genius of polysynthesis. North American Indians: Humanistic Perspectives. University of Oklahoma Papers in Anthropology 24(2)* </sub>
 
 <sub> *Evans, N. & Sasse, H. –J., eds. (2002) Problems of polysynthesis. Akademie Verlag.* </sub>
-
+<br/>
 ### My favourite treatments of compositionality in the literature
+<br/>
 
 [Compositionality](
 https://adele.princeton.edu/wp-content/uploads/sites/277/2019/12/Compositionality-Routledge.pdf) by [Adele Goldberg](https://en.wikipedia.org/wiki/Adele_Goldberg_(linguist))
 
-
+<br/>
 [A Case for Deep Learning in Semantics](https://web.stanford.edu/~cgpotts/temp/pater-commentary-by-potts.pdf) by [Christopher Potts](https://web.stanford.edu/~cgpotts/)
-
 &nbsp; .... <sub>*The usual story is that compositionality is crucial to our ability
 to produce and understand creative new combinations of linguistic units, because it offers
 guarantees about the systematicity and predictability of new units. However, these observations alone do not imply compositionality. The interpretation of a given phrase could be
