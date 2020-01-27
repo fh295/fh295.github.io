@@ -64,4 +64,45 @@ Latin is a free-word-order language too. So Nero or Augustus might have had the 
 
 <sub>  *Evans, N., & Levinson, S. C. (2009). The myth of language universals: Language diversity and its importance for cognitive science. Behavioral and brain sciences, 32(5), 429-448.* </sub>
 
+### Polysynthetic languages
+
+*Polysynthetic* languages cram a whole sentence into a single word.
+
+In the Australian language Bininj Gun-wok, *abanyawoihwarrgahmarneganjginjeng* means (approximately) *I cooked the wrong meat for them again.*
+
+In Cayuga, an American language, *Ęskakhehna’táyęthwahs* means *I will plant potatoes for them again.*
+
+In Yupik, a Siberian language, *tuntussuqatarniksaitengqiggtuq* means "He had not yet said again that he was going to hunt reindeer.*
+
+Polysynthetic languages are not an exceptional isolated occurrence. They are  more frequent in the Americas, Australia, Siberia, and New Guinea, but can be found in other places too. 
+
+Does it make sense to say that these languages have a single word for a whole sentence? Who defines what a word is? 
+
+Well, like words in English, speakers agree on exactly where they begin and end, and unlike sentences in English, they agree exactly on where any stress should be placed, and they don't accept periods of pause in the middle.
+
+
+
+Sources:
+
+<sub> * Mithun. 1983. The genius of polysynthesis. North American Indians: Humanistic Perspectives. University of Oklahoma Papers in Anthropology 24(2) </sub>
+
+<sub> *Evans, N. & Sasse, H. –J., eds. (2002) Problems of polysynthesis. Akademie Verlag.* </sub>
+
+### My favourite treatments of compositionality in the literature
+
+[Compositionality](
+https://adele.princeton.edu/wp-content/uploads/sites/277/2019/12/Compositionality-Routledge.pdf) by [Adele Goldberg](https://en.wikipedia.org/wiki/Adele_Goldberg_(linguist))
+
+
+A [Case for Deep Learning in Semantics](https://web.stanford.edu/~cgpotts/temp/pater-commentary-by-potts.pdf) by (Christopher Potts)(https://web.stanford.edu/~cgpotts/)
+
+&nbsp; .... <sub>*The usual story is that compositionality is crucial to our ability
+to produce and understand creative new combinations of linguistic units, because it offers
+guarantees about the systematicity and predictability of new units. However, these observations alone do not imply compositionality. The interpretation of a given phrase could be
+systematic, predictable, and also determined in part by global properties of the utterance,
+the speaker, the discourse situation, and so forth. And, indeed, it seems to me that our
+everyday experiences with language are in keeping with this. Listeners greedily use all sorts
+of information when making sense of others’ utterances, and speakers assume they will do
+this.*</sub> ...
+
 >> More to follow soon
