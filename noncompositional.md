@@ -84,7 +84,7 @@ First, we might like to think of ways in which a model like DALL-E could be enab
 
 #### In summary
 
-It's wrong to say that DALL-E is bad at composition  (or compositionality, [whatever the hell that even means](https://fh295.github.io/noncompositional.html)). DALL-E is probably better than any machine that we've encountered before at composition - that's exactly why everyone is so excited! It is precisely what appears to be an instinct for combining words in a way that respects many of the constraints of the world -- and in doing so matching our shared expectations and intuitions -- that is what seems so magical to us. 
+It's wrong to say that DALL-E is bad at composition  (or *compositionality*, [whatever the hell that even means](https://fh295.github.io/noncompositional.html)). DALL-E is probably better than any machine that we've encountered before at composition - that's exactly why everyone is so excited! It is precisely what appears to be an instinct for combining words in a way that respects many of the constraints of the world -- and in doing so matching our shared expectations and intuitions -- that is what seems so magical to us. 
 
 And it is not a surprise that such a capacity came from a deep neural network; it was exactly for these reasons that a few psychologists in the late 1970s and 80s developed models of this type and applied them to language when few others were interested.
 
@@ -94,12 +94,12 @@ It is a worthy endeavour to research ways to make models like DALL-E as systemat
 
 That said, to overcome this limitation, advocates of data-driven approaches to learning from vision and language will need to be a bit more systematic in the way we educate our models. 
 
-</br>
+<br/>
 
-Thanks to [Diarmuid](https://www.cl.cam.ac.uk/~do242/)'s [PhD](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-735.pdf) for many of the examples of noun compounds, and lots of great people on Twitter for the fun examples from OpenAI's DALL-E generator. 
+*Thanks to [Diarmuid](https://www.cl.cam.ac.uk/~do242/)'s [PhD](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-735.pdf) for many of the examples of noun compounds, and lots of great people on Twitter for the fun examples from OpenAI's DALL-E generator.*
 
-</br>
-</br>
+<br/>
+<br/>
 
 ### Building a situation representation
 
