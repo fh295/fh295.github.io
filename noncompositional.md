@@ -6,6 +6,80 @@ Each entry is also a chain of Tweets. To respond and engage, just [follow me on 
 
 <br/>
 
+## Why composition is DALL-E's strength, not it's weakness
+
+<p align="center">
+  <img width="600" src="dalle1.png">
+</p>
+
+
+When we compose meanings, concepts, semantics or any other 'elements' of cognition, the outcome is not easily predictable like it is when we compose functions in mathematics or operations in a computer programme. 
+
+It's an amazing fact of humans and language that we all know, without really even having to think, that a *wine hangover* is a hangover **caused by** wine, but a *college town* is a town **that has a** college. It seems obvious to us that a *honey bee* is a bee **that produces** honey, but that a *mountain lodge* is a lodge **located on** a mountain.
+
+We can perform similar magic with *snow blindness*, *bacon grease*, *glass cubes* and *daisy chains*. And we can do it when we haven't seen the combination before. Do you know what a *zoo gun* is? I bet you can make a reasonable guess, and I bet most of our guesses are similar. What about a *gun zoo*? We all know what a *pen knife* is, but it's kind of amusing to imagine what a *knife pen* would be like. Tweet me your sketches please. 
+
+These cases show that the meanings of two innocent-looking nouns seem to combine in radically diverse and complex ways. Nothing on the surface of the language tells us things should be different in each case, or how to proceed with the understanding process, yet we can all do it and, I bet, with surprisingly few differences of opinion.
+
+There is no known well-understood process or procedure for determining how the meanings of two words should combine to form a single coherent meaning. This simple fact may be the single clearest explanation for why the endeavour of modelling language with symbolic or rule-based systems -- attempted with great vigour and on a large scale continuously from the end of second world war until at least 2010 -- seems to have failed. 
+
+Considering the examples above, perhaps the only useful rule that we can arrive at is that the final result seems to rely on our knowledge of how things might naturally fit together given the physical and social constraints of the world that we live in, our experience with the combination itself, its similarity to other combinations that we already understand, and potentially numerous other subtle factors that we may have to take into account, consciously or otherwise, such as our intuition for what somebody might be trying to say to given the way the current conversation is going.
+
+Now, [DALL-E](https://openai.com/blog/dall-e/) doesn't get any information about conversational context so it can't possibly take that into account. In fact, it can only learn about the world from still images, so its implicit 'model' of the world must necessarily be very *visual*, quite biased towards the sorts of things that get photographed and then collated into image datasets, and lacking insight into physical constraints, motion, forces etc. 
+
+Nevertheless, and under these caveats - DALL-E makes what intuitively and viscerally seem to be impressive attempts to satisfy both the physical and conceptual constraints of the world and the prototypical meanings of input words. When asked to imagine a lettuce hedgehog, it puts the ends of the lettuce leaves towards the back of the hedgehog where the spikes would be, it merges them into a single contiguous object, it creates eyes and noses (things that a hedgehog has) out of specks of dirt that wouldn't look too out of place in a salad.
+
+<p align="center">
+  <img width="600" src="dalle2.png">
+</p>
+
+Similarly, when it constructs an avocado chair, it seems to do so in a way that fits with how our subconscious intuitions about how these two things should be combined. The avocado could be sitting on the sofa, or the chair could be located on the avocado, or it could be a chair sitting in a salad, or all manner of other ways of combining the two concepts. But something about the way DALL-E avocados the chair just feels right to us. 
+
+<p align="center">
+  <img width="600" src="dalle3.png">
+</p>
+
+And surely we all must agree that this is the only way to toucanize a hedgehog. 
+
+<p align="center">
+  <img width="600" src="dalle4.png">
+</p>
+
+And this is why it makes no sense to criticise DALL-E (or neural networks in general) for their poor composition. It is precisely because their composition is surprisingly good that emotions have been stirred and people are  enjoying tweeting and sharing these things so much!
+
+#### Yeah, all good fun, but we can't learn anything scientific or conceptual from this brute-force approach
+
+Well, I'm not so sure. Let's consider a bit more history....
+
+The eccentric, multivariate, non-linear nature of semantic composition was one of the key motivations for a group of cognitive scientists to develop early artificial neural networks. [Rumelhart] (https://pdfs.semanticscholar.org/5828/f6e9baf5727e37968a43957e6b9405e6887a.pdf) [Hinton](https://web.stanford.edu/~jlmcc/papers/PDP/Chapter3.pdf), [McClelland] (http://stanford.edu/~jlmcc/papers/McClelland92.pdf)  and others understood that these data-driven, learning-based models had the potential to acquire conceptual knowledge of the world that respects the subtleties and eccentricities of the data. Moreover, because such knowledge is distributed throughout weights of the network, including all levels of input processing, it can seamlessly interact with, and constrain, the raw content of any given inputs. In other words, in neural networks, the input and prior knowledge could interact in a way that wasn't possible in competing, more modular, symbolic or rule-based approaches to modelling semantic cognition. 
+
+If we were composing mathematical functions, these approaches would probably work very well. But they do not work very well when modelling language. So one scientific or conceptual thing that we can learn from this brute-force approach is that language (and meaning) is not like mathematics. Any hard imposition of encapsulation of modularity is likely to be unhelpful; what performs best is a model that can acquire background knowledge from data and that allow this knowledge to interact with input processing at all levels of representation and abstraction.
+
+#### OK, but what about systematicity?
+
+As pointed out in the OpenAI blog, DALL-E performs worse when asked to imagine a green cube on a red cube on a blue cube than to imagine a lettuce hedgehog. This is a bit disappointing, because we can imagine a green cube on a red cube on a blue cube quite easily. However, as pointed out by Tomer Ullman on Twitter 
+(https://twitter.com/TomerUllman/status/1346669277420650498?s=20), once we get above three objects, this gets quite tricky. It's actually quite a challenge to imagine (or sketch) a green cube on a red cube on a blue cube on a yellow cube on a purple table. 
+
+Interestingly, my bet is that we would observe a clear difference in how well children do at the cube-scene sketching task between the ages of 4 and 12. We would probably also observe clear differences between the final sketches between cultures where people have a formal education and [those that do not](https://science.sciencemag.org/content/182/4112/553), and between populations that received the description in a one-off audible instruction and those who could repeatedly consult a written version. This potential to learn the sort of systematic mental processes that allow us to construct multi-object scenes from such a description probably also benefits from our being physical beings who see (and feel and hear) the world from a first-person perspective and can practice [physically arranging things](https://www.pnas.org/content/117/42/25966). 
+
+So, DALL-E is not as systematic as young children, and much less systematic than formally-educated adult humans with perfect memories (or a pen and paper). But understanding what makes humans systematic and what makes some much more so than others can suggest ways to create models with the remarkable compositional skills of neural networks and the systematicity we desire as well. 
+
+First, we might like to think of ways in which a model like DALL-E can learn to interact with and actively-perceive its surroundings. We already know that doing so can make a substantial difference to [how systematic a deep neural network is](https://arxiv.org/abs/1910.00571) Second, we could  consider what the equivalent of a formal education for such a network. We know that such networks get more systematic through repeated practice at problems that require systematicity, particularly when the correct answers are [contrasted with carefully chosen alternatives](https://arxiv.org/abs/1902.00120). And thirdly, we can attempt to develop better [memory systems](https://arxiv.org/abs/2009.01719), so that a model or agent can know, for instance, when it is repeating itself and credit itself for doing so when doing so leads to positive outcomes.
+
+#### In summary
+
+It's wrong to say that DALL-E is bad at composition  (or compositionality, [whatever the hell that even means](https://fh295.github.io/noncompositional.html)). DALL-E is probably better than any machine that we've encountered before at composition - that's exactly why everyone is so excited! It is precisely what appears to be an instinct for combining words in a way that respects many of the constraints of the world, and in doing so matching our expectations and intuitions, that is what seems so magical to us. 
+
+And it is not a surprise that such a capacity came from a deep neural network; it was exactly for these reasons that a few psychologists in the late 1970s and 80s developed models of this type and applied them to language when few others were interested.
+
+On the other hand, as the example with stacking cubes shows, DALL-E is not particularly systematic. It is a worthy endeavour to research ways to make models like DALL-E as systematic as the smartest humans, particularly if we would like a system that can also do something like science or maths. 
+
+But the fact that DALL-E isn't very systematic is not, in my opinion, a fundamental limitation that proves the whole approach is wrong. But to overcome this limitation, advocates of data-driven approaches to learning from vision and language will need to be a bit more systematic in the way we educate our models. 
+
+</br>
+Thanks to [Diarmuid](https://www.cl.cam.ac.uk/~do242/)'s [PhD](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-735.pdf) for many of the examples of noun compounds, and lots of great people on Twitter for the fun examples from OpenAI's DALL-E generator. 
+
+
 ### Building a situation representation
 
 First, think about whether this sentence makes sense or not.  
