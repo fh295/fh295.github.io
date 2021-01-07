@@ -80,10 +80,12 @@ It is a worthy endeavour to research ways to make models like DALL-E as systemat
 That said, to overcome this limitation, advocates of data-driven approaches to learning from vision and language will need to be a bit more systematic in the way we educate our models. 
 
 </br>
+
 Thanks to [Diarmuid](https://www.cl.cam.ac.uk/~do242/)'s [PhD](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-735.pdf) for many of the examples of noun compounds, and lots of great people on Twitter for the fun examples from OpenAI's DALL-E generator. 
 
 </br>
 </br>
+
 ### Building a situation representation
 
 First, think about whether this sentence makes sense or not.  
