@@ -32,7 +32,7 @@ Now, [DALL-E](https://openai.com/blog/dall-e/) doesn't get any information about
 
 Nevertheless, and under these caveats - DALL-E makes what intuitively and viscerally seem to be quite remarkable attempts to account for the prototypical meanings of input words and satisfy both the physical and conceptual constraints of the world. When asked to imagine a *lettuce hedgehog*, it puts the ends of the lettuce leaves towards the back of the hedgehog where the spikes would be, it merges them into a single contiguous object, it creates eyes and noses (things that a hedgehog has) out of specks of dirt that wouldn't look too out of place in a salad.
 
-<\br>
+<br/>
 
 <p align="center">
   <img width="600" src="dalle3.png">
