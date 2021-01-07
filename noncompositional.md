@@ -6,7 +6,7 @@ Each entry is also a chain of Tweets. To respond and engage, just [follow me on 
 
 <br/>
 
-## Why composition is DALL-E's strength, not it's weakness
+## Why composition is DALL-E's strength, not its weakness
 
 <br/>
 
