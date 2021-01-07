@@ -82,7 +82,8 @@ That said, to overcome this limitation, advocates of data-driven approaches to l
 </br>
 Thanks to [Diarmuid](https://www.cl.cam.ac.uk/~do242/)'s [PhD](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-735.pdf) for many of the examples of noun compounds, and lots of great people on Twitter for the fun examples from OpenAI's DALL-E generator. 
 
-
+</br>
+</br>
 ### Building a situation representation
 
 First, think about whether this sentence makes sense or not.  
