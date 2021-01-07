@@ -8,10 +8,13 @@ Each entry is also a chain of Tweets. To respond and engage, just [follow me on 
 
 ## Why composition is DALL-E's strength, not it's weakness
 
+<br/>
+
 <p align="center">
   <img width="600" src="dalle4.png">
 </p>
 
+<br/>
 
 When we compose meanings, concepts, semantics or any other 'elements' of cognition, the outcome is not easily predictable like it is when we compose functions in mathematics or operations in a computer programme. 
 
@@ -35,27 +38,27 @@ Nevertheless, and under these caveats - DALL-E makes what intuitively and viscer
   <img width="600" src="dalle3.png">
 </p>
 
-<\br>
+<br/>
 
 Similarly, when it constructs an *avocado chair*, it seems to do so in a way that fits with how our subconscious intuitions about how these two things should be combined. The avocado could be sitting on the sofa, or the chair could be located on the avocado, or it could be a chair sitting in a salad, or all manner of other ways of combining the two concepts. But something about the way DALL-E *avocados* the chair just feels right to us. 
 
-<\br>
+<br/>
 
 <p align="center">
   <img width="600" src="dalle2.png">
 </p>
 
-<\br>
+<br/>
 
 And surely we all must agree that this is the only right and proper way to toucanize a hedgehog. 
 
-<\br>
+<br/>
 
 <p align="center">
   <img width="600" src="dalle1.png">
 </p>
 
-<\br>
+<br/>
 
 This is why it makes no sense to criticise DALL-E (or neural networks in general) for their poor composition. It is precisely because their composition is surprisingly good that emotions have been stirred and people are enjoying tweeting and sharing these things so much!
 
