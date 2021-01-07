@@ -9,7 +9,7 @@ Each entry is also a chain of Tweets. To respond and engage, just [follow me on 
 ## Why composition is DALL-E's strength, not it's weakness
 
 <p align="center">
-  <img width="600" src="dalle1.png">
+  <img width="600" src="dalle4.png">
 </p>
 
 
@@ -30,19 +30,19 @@ Now, [DALL-E](https://openai.com/blog/dall-e/) doesn't get any information about
 Nevertheless, and under these caveats - DALL-E makes what intuitively and viscerally seem to be impressive attempts to satisfy both the physical and conceptual constraints of the world and the prototypical meanings of input words. When asked to imagine a lettuce hedgehog, it puts the ends of the lettuce leaves towards the back of the hedgehog where the spikes would be, it merges them into a single contiguous object, it creates eyes and noses (things that a hedgehog has) out of specks of dirt that wouldn't look too out of place in a salad.
 
 <p align="center">
-  <img width="600" src="dalle2.png">
+  <img width="600" src="dalle3.png">
 </p>
 
 Similarly, when it constructs an avocado chair, it seems to do so in a way that fits with how our subconscious intuitions about how these two things should be combined. The avocado could be sitting on the sofa, or the chair could be located on the avocado, or it could be a chair sitting in a salad, or all manner of other ways of combining the two concepts. But something about the way DALL-E avocados the chair just feels right to us. 
 
 <p align="center">
-  <img width="600" src="dalle3.png">
+  <img width="600" src="dalle2.png">
 </p>
 
 And surely we all must agree that this is the only way to toucanize a hedgehog. 
 
 <p align="center">
-  <img width="600" src="dalle4.png">
+  <img width="600" src="dalle1.png">
 </p>
 
 And this is why it makes no sense to criticise DALL-E (or neural networks in general) for their poor composition. It is precisely because their composition is surprisingly good that emotions have been stirred and people are  enjoying tweeting and sharing these things so much!
