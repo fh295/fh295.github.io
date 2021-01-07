@@ -19,7 +19,7 @@ It's an amazing fact of humans and language that we all know, without really eve
 
 We can perform similar magic with *snow blindness*, *bacon grease*, *glass cubes* and *daisy chains*. And we can do it when we haven't seen the combination before. Do you know what a *zoo gun* is? I bet you can make a reasonable guess, and I bet most of our guesses are similar. What about a *gun zoo*? We all know what a *pen knife* is, but it's kind of amusing to imagine what a *knife pen* would be like. Tweet me your sketches please. 
 
-These cases show that the meanings of two innocent-looking nouns seem to combine in radically diverse and complex ways. Nothing on the surface of the language tells us things should be different in each case, or how to proceed with the understanding process, yet we can all do it and, I bet, with surprisingly few differences of opinion.
+These cases show that the meanings of two innocent-looking nouns seem to combine in radically diverse and complex ways. Nothing on the surface of the language tells us that we should do something different in our mind in each of these cases, yet we can all cook up these very different recipes in our mind and, I bet, with surprisingly few differences of opinion.
 
 There is no known well-understood process or procedure for determining how the meanings of two words should combine to form a single coherent meaning. This simple fact may be the single clearest explanation for why the endeavour of modelling language with symbolic or rule-based systems -- attempted with great vigour and on a large scale continuously from the end of second world war until at least 2010 -- seems to have failed. 
 
@@ -27,13 +27,13 @@ Considering the examples above, perhaps the only useful rule that we can arrive 
 
 Now, [DALL-E](https://openai.com/blog/dall-e/) doesn't get any information about conversational context so it can't possibly take that into account. In fact, it can only learn about the world from still images, so its implicit 'model' of the world must necessarily be very *visual*, quite biased towards the sorts of things that get photographed and then collated into image datasets, and lacking insight into physical constraints, motion, forces etc. 
 
-Nevertheless, and under these caveats - DALL-E makes what intuitively and viscerally seem to be impressive attempts to satisfy both the physical and conceptual constraints of the world and the prototypical meanings of input words. When asked to imagine a lettuce hedgehog, it puts the ends of the lettuce leaves towards the back of the hedgehog where the spikes would be, it merges them into a single contiguous object, it creates eyes and noses (things that a hedgehog has) out of specks of dirt that wouldn't look too out of place in a salad.
+Nevertheless, and under these caveats - DALL-E makes what intuitively and viscerally seem to be quite remarkable attempts to account for the prototypical meanings of input words and satisfy both the physical and conceptual constraints of the world. When asked to imagine a *lettuce hedgehog*, it puts the ends of the lettuce leaves towards the back of the hedgehog where the spikes would be, it merges them into a single contiguous object, it creates eyes and noses (things that a hedgehog has) out of specks of dirt that wouldn't look too out of place in a salad.
 
 <p align="center">
   <img width="600" src="dalle3.png">
 </p>
 
-Similarly, when it constructs an avocado chair, it seems to do so in a way that fits with how our subconscious intuitions about how these two things should be combined. The avocado could be sitting on the sofa, or the chair could be located on the avocado, or it could be a chair sitting in a salad, or all manner of other ways of combining the two concepts. But something about the way DALL-E avocados the chair just feels right to us. 
+Similarly, when it constructs an *avocado chair*, it seems to do so in a way that fits with how our subconscious intuitions about how these two things should be combined. The avocado could be sitting on the sofa, or the chair could be located on the avocado, or it could be a chair sitting in a salad, or all manner of other ways of combining the two concepts. But something about the way DALL-E *avocados* the chair just feels right to us. 
 
 <p align="center">
   <img width="600" src="dalle2.png">
@@ -45,7 +45,7 @@ And surely we all must agree that this is the only way to toucanize a hedgehog.
   <img width="600" src="dalle1.png">
 </p>
 
-And this is why it makes no sense to criticise DALL-E (or neural networks in general) for their poor composition. It is precisely because their composition is surprisingly good that emotions have been stirred and people are  enjoying tweeting and sharing these things so much!
+This is why it makes no sense to criticise DALL-E (or neural networks in general) for their poor composition. It is precisely because their composition is surprisingly good that emotions have been stirred and people are enjoying tweeting and sharing these things so much!
 
 #### Yeah, all good fun, but we can't learn anything scientific or conceptual from this brute-force approach
 
