@@ -70,7 +70,7 @@ The eccentric, multivariate, non-linear nature of semantic composition was one o
 
 In other words, in neural networks, the input and prior knowledge could interact in a way that wasn't possible in competing, more modular, symbolic or rule-based approaches to modelling semantic cognition. 
 
-If we were composing mathematical functions, these symbolic approaches would probably work very well. But they do not work very well when modelling language. So, if we are looking for scientific insight, one thing that we can learn from this brute-force approach is that language (and meaning) is not like mathematics. Any hard imposition of encapsulation or modularity seems to be unhelpful; what performs best is a model that can acquire background knowledge from data and that allow this knowledge to interact with input processing at all levels of representation and abstraction.
+If we were composing smooth, closed-form mathematical functions, these symbolic approaches would probably work very well. But they do not work very well when modelling language. So, if we are looking for scientific insight, one thing that we can learn from this brute-force approach is that language (and meaning) is not like mathematics. Any hard imposition of encapsulation or modularity seems to be unhelpful; what performs best is a model that can acquire background knowledge from data and that allow this knowledge to interact with input processing at all levels of representation and abstraction.
 
 #### OK, but what about systematicity?
 
