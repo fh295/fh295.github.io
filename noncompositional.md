@@ -29,21 +29,33 @@ Now, [DALL-E](https://openai.com/blog/dall-e/) doesn't get any information about
 
 Nevertheless, and under these caveats - DALL-E makes what intuitively and viscerally seem to be quite remarkable attempts to account for the prototypical meanings of input words and satisfy both the physical and conceptual constraints of the world. When asked to imagine a *lettuce hedgehog*, it puts the ends of the lettuce leaves towards the back of the hedgehog where the spikes would be, it merges them into a single contiguous object, it creates eyes and noses (things that a hedgehog has) out of specks of dirt that wouldn't look too out of place in a salad.
 
+<\br>
+
 <p align="center">
   <img width="600" src="dalle3.png">
 </p>
 
+<\br>
+
 Similarly, when it constructs an *avocado chair*, it seems to do so in a way that fits with how our subconscious intuitions about how these two things should be combined. The avocado could be sitting on the sofa, or the chair could be located on the avocado, or it could be a chair sitting in a salad, or all manner of other ways of combining the two concepts. But something about the way DALL-E *avocados* the chair just feels right to us. 
+
+<\br>
 
 <p align="center">
   <img width="600" src="dalle2.png">
 </p>
 
-And surely we all must agree that this is the only way to toucanize a hedgehog. 
+<\br>
+
+And surely we all must agree that this is the only right and proper way to toucanize a hedgehog. 
+
+<\br>
 
 <p align="center">
   <img width="600" src="dalle1.png">
 </p>
+
+<\br>
 
 This is why it makes no sense to criticise DALL-E (or neural networks in general) for their poor composition. It is precisely because their composition is surprisingly good that emotions have been stirred and people are enjoying tweeting and sharing these things so much!
 
@@ -59,7 +71,7 @@ If we were composing mathematical functions, these symbolic approaches would pro
 
 #### OK, but what about systematicity?
 
-As pointed out in the OpenAI blog, DALL-E performs worse when asked to imagine a green cube on a red cube on a blue cube than to imagine a lettuce hedgehog. This is a bit disappointing, because we can imagine a green cube on a red cube on a blue cube quite easily. However, as pointed out by [Tomer Ullman on Twitter](https://twitter.com/TomerUllman/status/1346669277420650498?s=20), once we get above three objects, this gets quite tricky for us too. It's actually quite a headache to imagine (or sketch) a green cube on a red cube on a blue cube on a yellow cube on a purple table. 
+As pointed out in the OpenAI blog, DALL-E performs worse when asked to imagine *a green cube on a red cube on a blue cube* than to imagine a lettuce hedgehog. This is a bit disappointing, because we can imagine a green cube on a red cube on a blue cube quite easily. However, as pointed out by [Tomer Ullman on Twitter](https://twitter.com/TomerUllman/status/1346669277420650498?s=20), once we get above three objects, this gets quite tricky for us too. It's actually quite a headache to imagine (or sketch) a *green cube on a red cube on a blue cube on a yellow cube on a purple table*. 
 
 Interestingly, my bet is that we would observe a clear difference in how well children do at the cube-scene sketching task between the ages of 4 and 12. We would probably also observe clear differences between the final sketches between cultures where people have a formal education and [those that do not](https://science.sciencemag.org/content/182/4112/553), and also between populations that received the description in a one-off audible instruction and those who could repeatedly consult a written version. The potential to learn the sort of systematic mental processes that allow us to construct multi-object scenes from such a description probably also benefits from our being physical beings who see, feel and hear the world from a first-person perspective, and practice [physically arranging things](https://www.pnas.org/content/117/42/25966). 
 
