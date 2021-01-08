@@ -30,7 +30,7 @@ Considering the examples above, perhaps the only useful rule that we *can* infer
 
 Now, [DALL-E](https://openai.com/blog/dall-e/) doesn't get any information about conversational context so it can't possibly take that into account. In fact, it can only learn about the world from still images, so its implicit 'world model' must necessarily be very *visual*, likely quite biased towards the sorts of things that get photographed and then collated into image datasets, and lacking insight into physical constraints, motion, forces etc. 
 
-Nevertheless, and given these caveats - DALL-E makes what viscerally seem to be remarkable attempts to account for the prototypical meanings of input words and satisfy both the physical and conceptual constraints of the world. When asked to imagine a *lettuce hedgehog*, it puts the ends of the lettuce leaves towards the back of the hedgehog where the spikes would be, it merges them into a single contiguous object, it creates eyes and noses (things that a hedgehog has) out of specks of dirt that wouldn't look too out of place in a salad.
+Nevertheless, and given these caveats - DALL-E makes what viscerally seem to be remarkable attempts to both account for the prototypical meanings of input words *and also* satisfy both the physical and conceptual constraints of the world. When asked to imagine a *lettuce hedgehog*, it puts the ends of the lettuce leaves towards the back of the hedgehog where the spikes would be, it merges them into a single contiguous object, it creates eyes and noses (things that a hedgehog has) out of specks of dirt that wouldn't look too out of place in a salad.
 
 <br/>
 
