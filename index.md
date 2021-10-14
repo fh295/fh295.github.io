@@ -64,21 +64,14 @@ During my PhD, I worked with [Anna Korhonen](http://www.cl.cam.ac.uk/~alk23/) on
 With [Steve Clark](https://sites.google.com/site/stephenclark609/) I taught a Master's course [Deep Learning for NLP](teaching.md) at the Computer Laboratory, Cambridge University in 2018. If you follow that link you can find the synopsis, lecture slides and [Tensorflow code for training neural networks on dictionary definitions](https://github.com/fh295/Cambridge_DL4NLP). We got nice feedback, and hope to do the course again (somewhere) soon. 
 
 <br/>
-## Videos and talks
+## Videos and lectures
 
-* Kenote address, First [Mexican International Meeting on Artificial Intelligence](https://riiaa.org/transmision/) (in Spanish), August 2018.
 
-* Kenote address, 39th [TabuDag](https://www.let.rug.nl/tabudag/keynotes.php) meeting of linguists, Groningen, Netherlands, June 2018. 
+* [Deep Learning for NLP](https://www.youtube.com/watch?v=8zAP2qWAsKg) as part of the DeepMind UCL Lecture series. 
 
-* Video talks @ MSR Redmond (2016) and ICLR 2016, San Juan, Puerto Rico.
-<div style="float: left; margin-left: 5px;">
-<iframe width="230" height="180" src="https://www.youtube.com/embed/a0BVuPCjqyg?start=10" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-<div style="float: left; margin-left: 20px;">
-<a href="http://videolectures.net/iclr2016_hill_goldilocks_principle/">
-<img border="0" alt="W3Schools" src="http://videolectures.net/iclr2016_hill_goldilocks_principle/thumb.jpg" width="230" height="180"></a>
-</div>
-<div style="clear:both;"></div>
+* [Humans of AI Interview with Dhruv Batra](https://youtu.be/qmV2mLHuvMU).
+
+* Kenote address, [Mexican International Meeting on Artificial Intelligence](https://riiaa.org/transmision/) (in Spanish), August 2018.
 
 <br/>
 ### Other stuff
