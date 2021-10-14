@@ -12,11 +12,9 @@ Natural language is interesting because, unlike formal languages, mathematics or
 ## Situated language learning
 
 <div style="float: left;">
-<iframe width="230" height="170" src="https://www.youtube.com/embed/iuihBGAGI3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iuihBGAGI3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div style="float: left; margin-left: 20px;">
-<iframe width="230" height="170" src="https://www.youtube.com/embed/9vY8D4wuEV0?rel=0&amp;controls=0&amp;showinfo=0;start=45&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <div style="clear:both;"></div>
 
