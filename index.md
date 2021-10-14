@@ -5,14 +5,14 @@
 
 ## Why language?
 
-Natural language is interesting because, unlike formal languages, mathematics or logic, it is isn't really *compositional*. People often think language is compositional. If you are one of those people, check out my micro-blog, [NonCompositional](noncompositional.md).
+Natural language is interesting because, unlike formal languages, mathematics or logic, it is isn't in general *compositional*. People often think language is compositional. If you are one of those people, check out my micro-blog, [NonCompositional](noncompositional.md).
 
 <br/>
 
-## Embodied language learning
+## Situated language learning
 
 <div style="float: left;">
-<iframe width="230" height="170" src="https://www.youtube.com/embed/wJjdu1bPJ04?rel=0&amp;controls=0&amp;showinfo=0;start=6&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="230" height="170" src="https://youtu.be/iuihBGAGI3M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <div style="float: left; margin-left: 20px;">
@@ -20,13 +20,25 @@ Natural language is interesting because, unlike formal languages, mathematics or
 </div>
 <div style="clear:both;"></div>
 
-Children learn to understand language while learning to [perceive, interact-with, explain and make predictions about the world around them](http://psycnet.apa.org/record/1973-30971-000). Our linguistic knowledge depends critically on [sensory-motor and perceptual processes](https://www.tandfonline.com/doi/abs/10.1080/17470210701623605), which in turn are influenced and shaped by our language. 
+Children learn to understand language while learning to [perceive, interact-with, explain and make predictions about the world around them](http://psycnet.apa.org/record/1973-30971-000). Our linguistic knowledge depends critically on [sensory-motor and perceptual processes](https://www.tandfonline.com/doi/abs/10.1080/17470210701623605), which in turn are influenced and shaped by our language. My work simulates this process of acquiring language jointly with perceptual and motor processes as a path to realistic language understanding in fully embodied systems. 
 
-My work simulates this process of acquiring language jointly with perceptual and motor processes as a path to realistic language understanding in fully embodied systems. With many brilliant collaborators at Deepmind, I have developed [agents that can learn the meaning of words and short phrases as they pertain to perceptual stimuli and complex action sequences](https://arxiv.org/abs/1910.00571) in [3D worlds](https://github.com/deepmind/lab). These agents naturally compose known words to successfully interpret never-seen-before phrases, a trait that matches the productivity of human language understanding. 
+Our team at DeepMind has pioneered research into [agents that learn the meaning of words and short phrases as they pertain to perceptual stimuli and complex action sequences](https://arxiv.org/abs/1910.00571) in [3D worlds](https://github.com/deepmind/lab). These agents naturally compose known words to successfully interpret never-seen-before phrases, a trait that matches the productivity of human language understanding. 
 
-We have also showed that learning is much more efficient if agents [exploit multiple complementary learning algorithms](https://arxiv.org/abs/1710.09867), another property of [human language learning](https://www.ncbi.nlm.nih.gov/pubmed/7624455). 
+# Recent work from our group
 
-You may also be interested in [AGILE](https://arxiv.org/pdf/1806.01946.pdf), an algorithm that jointly learns a instruction-conditioned reward function and a policy for realising that instruction. This provides a solution to a critical challenge for training agents to follow language commands; that the truth conditions of most linguistic expressions are typically [very hard to express formally](https://en.wikipedia.org/wiki/Philosophical_Investigations) (e.g. in a programmed reward function). 
+The systematicity and generalization of situated agents is enhanced by their rich learning experience; in particular their egocentric, first-person perspective.
+
+With the dual-coding memory system, situated language agents can learn new word-object bindings in a single shot, and integrate this knowledge into policies that lift and place those objects as instructed.
+
+Large text-based language models can be adapted to exhibit similar fast visual binding (aka *multimodal few-shot learning*) using [a simple Frozen method](https://arxiv.org/abs/2106.13884).
+
+With a [hierarchical memory system](https://openreview.net/forum?id=wfiVgITyCC_&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2021%2FConference%2FAuthors%23your-submissions)), agents can extend this ability in many ways, solving and generalizing over long-horizon binding tasks.
+
+Situated language agents learn faster by [exploiting multiple complementary learning algorithms](https://arxiv.org/abs/1710.09867), a notion inspired by [human language learning](https://www.ncbi.nlm.nih.gov/pubmed/7624455). 
+
+Flexible spatio-temporal reasoning across three challenging tasks with [a simple neural architecture based on soft-object embeddings, self-attention and self-supervised learning](https://openreview.net/forum?id=lHmhW2zmVN&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2021%2FConference%2FAuthors%23your-submissions)).
+
+[AGILE](https://arxiv.org/pdf/1806.01946.pdf), an algorithm that jointly learns a instruction-conditioned reward function and a policy for realising that instruction. This provides a solution to a critical challenge for training agents to follow language commands; that the truth conditions of most linguistic expressions are typically [very hard to express formally](https://en.wikipedia.org/wiki/Philosophical_Investigations) (e.g. in a programmed reward function). 
 
 <br/>
 ## Perception, abstraction and analogy
