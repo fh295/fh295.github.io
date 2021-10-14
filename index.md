@@ -12,10 +12,9 @@ Natural language is interesting because, unlike formal languages, mathematics or
 ## Situated language learning
 
 <div style="float: left;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iuihBGAGI3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iuihBGAGI3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=True; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-</div>
 <div style="clear:both;"></div>
 
 Children learn to understand language while learning to [perceive, interact-with, explain and make predictions about the world around them](http://psycnet.apa.org/record/1973-30971-000). Our linguistic knowledge depends critically on [sensory-motor and perceptual processes](https://www.tandfonline.com/doi/abs/10.1080/17470210701623605), which in turn are influenced and shaped by our language. My work simulates this process of acquiring language jointly with perceptual and motor processes as a path to realistic language understanding in fully embodied systems. 
