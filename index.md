@@ -12,7 +12,7 @@ Natural language is interesting because, unlike formal languages, mathematics or
 ## Situated language learning
 
 <div style="float: left;">
-<iframe width="230" height="170" src="https://youtu.be/iuihBGAGI3M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="230" height="170" src="https://www.youtube.com/embed/iuihBGAGI3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div style="float: left; margin-left: 20px;">
@@ -26,9 +26,9 @@ Our team at DeepMind has pioneered research into [agents that learn the meaning 
 
 # Recent work from our group
 
-The systematicity and generalization of situated agents is enhanced by their rich learning experience; in particular their egocentric, first-person perspective.
+[The systematicity and generalization of situated agents is enhanced by their rich learning experience](https://arxiv.org/abs/1910.00571); in particular their egocentric, first-person perspective.
 
-With the dual-coding memory system, situated language agents can learn new word-object bindings in a single shot, and integrate this knowledge into policies that lift and place those objects as instructed.
+With [a dual-coding episodic memory system](https://arxiv.org/abs/2009.01719), situated language agents can learn new word-object bindings in a single shot, and integrate this knowledge into policies that lift and place those objects as instructed.
 
 Large text-based language models can be adapted to exhibit similar fast visual binding (aka *multimodal few-shot learning*) using [a simple Frozen method](https://arxiv.org/abs/2106.13884).
 
