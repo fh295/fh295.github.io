@@ -7,7 +7,7 @@
 
 <br/>
 
-My work aims to build computational models that exhiibit human-like understanding of language and its relationship to perception and action. 
+My work aims to build computational models that exhiibit human-like understanding of language and its relation to perception and action. 
 
 <br/>
 
