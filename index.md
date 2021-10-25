@@ -5,7 +5,11 @@
 <iframe width="450" height="315" src="https://www.youtube.com/embed/iuihBGAGI3M?controls=0&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Recent work
+My work aims to build computational models that exhiibit human-like understanding of language and its relationship to perception and action. 
+
+<br/>
+
+## Recent work from the Grounded Language group at DeepMind
 
 ### [Multimodal few-shot learning with frozen language models](frozen.md)
 Click on the link above to donwload the evaluation datasets from our [recent paper](https://arxiv.org/abs/2106.13884).
@@ -26,13 +30,13 @@ Flexible spatio-temporal reasoning across three challenging tasks with [a simple
 
 <br/>
 
-## Situated language learning
+## Why situated language learning?
 
-Children learn to understand language while learning to [perceive, interact-with, explain and make predictions about the world around them](http://psycnet.apa.org/record/1973-30971-000). Our linguistic knowledge depends critically on [sensory-motor and perceptual processes](https://www.tandfonline.com/doi/abs/10.1080/17470210701623605), which in turn are influenced and shaped by our language. My work simulates this process of acquiring language jointly with perceptual and motor processes as a path to realistic language understanding in fully embodied systems. 
+Children learn to understand language while learning to [perceive, interact-with, explain and make predictions about the world around them](http://psycnet.apa.org/record/1973-30971-000). Our linguistic knowledge depends critically on [sensory-motor and perceptual processes](https://www.tandfonline.com/doi/abs/10.1080/17470210701623605), which in turn are influenced and shaped by our language. 
 
 Our team at DeepMind has pioneered research into [agents that learn the meaning of words and short phrases as they pertain to perceptual stimuli and complex action sequences](https://arxiv.org/abs/1910.00571) in [3D worlds](https://github.com/deepmind/lab). These agents naturally compose known words to successfully interpret never-seen-before phrases, a trait that matches the productivity of human language understanding. 
 
-## Perception, abstraction and analogy
+## Understanding through perception, abstraction and analogy
 
 <img align="left" src="matrices-opt.gif" width="200" hspace="20">
 
@@ -55,9 +59,9 @@ During my PhD, I worked with [Anna Korhonen](http://www.cl.cam.ac.uk/~alk23/) on
 
 <br/>
 
-## Why language?
+## What about compositionality?
 
-Natural language is interesting because, unlike formal languages, mathematics or logic, it is isn't in general *compositional*. People often think language is compositional. If you are one of those people, check out my micro-blog, [NonCompositional](noncompositional.md).
+I think natural language is interesting because, unlike formal languages, mathematics or logic, it is isn't in general *compositional*. Many people, on the other hand, say that language is interesting because it *is* compositional. My micro-blog [NonCompositional](noncompositional.md) that discusses some of these issues.
 
 <br/>
 
