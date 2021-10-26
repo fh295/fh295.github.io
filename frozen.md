@@ -7,7 +7,7 @@ In [this work](https://arxiv.org/abs/2106.13884) we train image encoders *throug
 
 ## Evaluation tasks used in the paper
 
-[Download the evaluations here (approx 15GB)](https://storage.googleapis.com/dm-few-shot-learning-benchmarks)
+[Download the evaluations here (approx 15GB)](https://pantheon.corp.google.com/storage/browser/dm-few-shot-learning-benchmarks)
 
 These tasks are designed to measure few-shot learning in a multimodal model.
 They are created by aggregating images and annotations from the Imagenet 2012
