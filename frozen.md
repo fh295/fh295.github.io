@@ -7,7 +7,7 @@ In [this work](https://arxiv.org/abs/2106.13884) we train image encoders *throug
 
 ## Evaluation tasks used in the paper
 
-[Download the evaluations here (approx 15GB)](https://pantheon.corp.google.com/storage/browser/dm-few-shot-learning-benchmarks)
+[See full README.md for the evaluations, including code snippet for loading them in python here](https://storage.googleapis.com/dm-few-shot-learning-benchmarks/README.md)
 
 These tasks are designed to measure few-shot learning in a multimodal model.
 They are created by aggregating images and annotations from the Imagenet 2012
@@ -16,21 +16,37 @@ resources, which made creating this benchmark possible.
 
 ### open_ended_mi.tar.gz
 
-Images in the support have randomized nonsense names ('dax', 'blicket' etc.)
+[Download here (5.7G)](https://storage.googleapis.com/dm-few-shot-learning-benchmarks/open_ended_mi.tar.gz)
+
+Images in the support have randomized nonsense names ('dax', 'blicket' etc.). 
+
+2-way and 5-way versions available, with 1, 3 or 5 shots.
 
 ### real_name_mi.tar.gz
 
-Images in the support have their original Imagenet category labels like 'eagle'
+[Download here (5.7G)]https://storage.googleapis.com/dm-few-shot-learning-benchmarks/real_name_mi.tar.gz)
+
+Images in the support have their original Imagenet category labels like 'eagle'.
+
+2-way and 5-way versions available, with 1, 3 or 5 shots.
 
 ### fast_vqa.tar.gz
+
+[Download here (1.9G)[https://storage.googleapis.com/dm-few-shot-learning-benchmarks/fast_vqa.tar.gz]
 
 Images in the support have randomized nonsense names, questions refer to these
 names
 
+2-way versions available, with 1, 3 or 5 shots.
+
 ### guided_vqa.tar.gz
+
+[Download here (1.9G)[https://storage.googleapis.com/dm-few-shot-learning-benchmarks/guided_vqa.tar.gz]
 
 Images in the support have their original Imagenet category names, the question
 is the original question taken from Visual Genome dataset
+
+2-way versions available, with 1, 3 or 5 shots.
 
 <img align="right" src="method-1.png" width="600" hspace="20">
 
