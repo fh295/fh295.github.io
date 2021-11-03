@@ -69,8 +69,6 @@ text, and the correct answer.
 
 ## Citing the tasks
 
-Cheers. 
-
 ```
 @article{tsimpoukelli2021multimodal,
   title={Multimodal few-shot learning with frozen language models},
