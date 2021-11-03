@@ -51,6 +51,8 @@ is the original question taken from Visual Genome dataset
 <img align="right" src="method-1.png" width="600" hspace="20">
 
 <br/>
+<br/>
+<br/>
 
 ## Reading the data
 
