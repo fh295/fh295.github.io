@@ -48,11 +48,11 @@ is the original question taken from Visual Genome dataset
 
 2-way versions available, with 1, 3 or 5 shots.
 
-<img align="right" src="method-1.png" width="600" hspace="20">
+<br/>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
+<img align="right" src="method-1.png" width="600" hspace="20">
 
 ## Reading the data
 
