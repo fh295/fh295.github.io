@@ -24,7 +24,7 @@ Images in the support have randomized nonsense names ('dax', 'blicket' etc.).
 
 ### real_name_mi.tar.gz
 
-[Download here (5.7G)]https://storage.googleapis.com/dm-few-shot-learning-benchmarks/real_name_mi.tar.gz)
+[Download here (5.7G)](https://storage.googleapis.com/dm-few-shot-learning-benchmarks/real_name_mi.tar.gz)
 
 Images in the support have their original Imagenet category labels like 'eagle'.
 
@@ -32,7 +32,7 @@ Images in the support have their original Imagenet category labels like 'eagle'.
 
 ### fast_vqa.tar.gz
 
-[Download here (1.9G)[https://storage.googleapis.com/dm-few-shot-learning-benchmarks/fast_vqa.tar.gz]
+[Download here (1.9G)](https://storage.googleapis.com/dm-few-shot-learning-benchmarks/fast_vqa.tar.gz)
 
 Images in the support have randomized nonsense names, questions refer to these
 names
@@ -41,7 +41,7 @@ names
 
 ### guided_vqa.tar.gz
 
-[Download here (1.9G)[https://storage.googleapis.com/dm-few-shot-learning-benchmarks/guided_vqa.tar.gz]
+[Download here (1.9G)](https://storage.googleapis.com/dm-few-shot-learning-benchmarks/guided_vqa.tar.gz)
 
 Images in the support have their original Imagenet category names, the question
 is the original question taken from Visual Genome dataset
