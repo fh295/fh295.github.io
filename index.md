@@ -1,14 +1,11 @@
 
-# Grounded language understanding
-
-<div style="float: center;">
-<iframe width="500" height="315" src="https://www.youtube.com/embed/iuihBGAGI3M?controls=0&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+# Language Understanding Grounded in Perception and Action
 
 <br/>
 
 My work aims to build computational models that exhiibit human-like understanding of language and its relation to perception and action. 
 
+This light-hearted 30 minute read Why [Transformers are Obviously Good Models of Language](transormers_and_language_v0.1.pdf) explains my views on recent developments in LLMs and the implications for those interested in language science as well as building effective language-based application. 
 <br/>
 
 ## Recent work from the Grounded Language group at DeepMind
