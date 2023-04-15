@@ -5,7 +5,7 @@
 
 My work aims to build computational models that exhiibit human-like understanding of language and its relation to perception and action. 
 
-This light-hearted 30 minute read Why [Transformers are *Obviously* Good Models of Language](Transformers_and_language_v0.1.pdf) explains my views on recent developments in LLMs and the implications for those interested in language science as well as building effective language-based application. 
+This light-hearted 30 minute read Why [Transformers are *Obviously* Good Models of Language](/pdf/transformers.pdf) explains my views on recent developments in LLMs and the implications for those interested in language science as well as building effective language-based application. 
 <br/>
 
 ## Recent work from the Grounded Language group at DeepMind
