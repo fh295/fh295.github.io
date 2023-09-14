@@ -7,7 +7,7 @@ My work aims to build computational models that exhiibit human-like understandin
 
 In a less-than 30 min read I explain v simply [Why Transformers are *Obviously* Good Models of Language](https://drive.google.com/file/d/1Z4raW0RRzGIvHeXtCRb0xjRil_4KBkWE/view?usp=sharing).
 
-If I was headmaster I would make this compulsory reading for anyone hoping to build language-based applications that human users value. 
+I hope this is useful reading for anyone hoping to build language-based applications that human users value. 
 <br/>
 
 ## Recent work from the Grounded Language group at DeepMind
