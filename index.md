@@ -88,6 +88,8 @@ I started doing [cognitive science](https://onlinelibrary.wiley.com/doi/abs/10.1
 
 See [Google Scholar](https://scholar.google.com/citations?user=4HLUnhIAAAAJ&hl=en) for a list of publications.
 
+[Here](public.md)
+
 When not working, things I like to do include football, running, yoga, [travelling](http://www.roadjunky.com/2078/backpackers-behind-bars-a-morning-in-quito-prison/) and [relaxing](http://www.roadjunky.com/2087/zen-at-work-vipassana-an-indian-meditation-bootcamp/).
 
 
