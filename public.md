@@ -115,6 +115,3 @@ There is so much out there to live for. I used to love it so much.
 Maybe I’m with Mum now. I hope so. 
 
 
-In a less-than 30 min read I explain v simply [Why Transformers are *Obviously* Good Models of Language](https://drive.google.com/file/d/1Z4raW0RRzGIvHeXtCRb0xjRil_4KBkWE/view?usp=sharing).
-
-
