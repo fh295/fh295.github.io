@@ -74,7 +74,7 @@ I also want it to be very clear that none what has happened to me did so because
 
 Returning to the question of mental health, one thing I hope to do by sharing my story is to reduce stigma and generally further the progressive evolution of society in a small way. Not long ago people were embarrassed to have cancer. In Humans of AI I tried to raise this a bit with Druv Batra, but I wasn’t brave enough to do it properly. Maybe we can use some of my savings to get the message out further. I’m ashamed of many things, but I’m not ashamed of my illness, and it would be nice to build a world where nobody is. 
 
-### Could I recovered? 
+### Could I have recovered? 
 
 When I was well, the most important things in my life were research, family and friends. Looking back, I often put research first, which is shameful, I think because of my fear of not carrying on. After the crisis in 2023, I was depressed, but it wasn’t like any depression I’d known before. Maybe it was post-psychosis-PTSD. It was certainly post-psychosis shame (however much I know psychosis is an illness like any other, I know that I caused this illness through my bad choices). I’d had depression, maybe half a dozen times, once quite seriously, and I know a lot about it. This was very different. Reading about psychosis can maybe give you some idea. 
 
