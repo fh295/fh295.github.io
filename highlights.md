@@ -2,7 +2,7 @@
 * Atom bomb rap. Rat dragging me up the Muni
 * The beauty of maths ty Rich E. Real analysis; set theory; Godel’s Incompleteness Theorems. Thrilling 3hr exams. All the garb, only to get ‘finished’.  
 * Worcester. James Bristow. Pete Hosier. John Sanderson. Steve’s ski trips w Siewy and Red Owen.
-* Cockpit ([baywatch[(https://www.youtube.com/watch?v=4MngzuvoP-s&t=197s)). Owen’s moustache beard thing. I love you so much. 
+* Cockpit [baywatch](https://www.youtube.com/watch?v=4MngzuvoP-s&t=197s). Owen’s moustache beard thing. I love you so much. 
 * 21st in Hall with John Tullis jazz in the bar; Playboy Mansion, jacuzzi, living-room-smoke-machine with Rat.
 * BUSA nationals. Dmitri on piano
 * Teaching at Westminster School, half a class smarter than me. A luxe garden flat I tried to share with Gemma Chan. 
