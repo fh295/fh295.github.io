@@ -5,7 +5,7 @@
 
 My work aims to build computational models that exhiibit human-like understanding of language and its relation to perception and action. 
 
-In a less-than 30 min read I explain v simply [Why Transformers are *Obviously* Good Models of Language](https://drive.google.com/file/d/1Z4raW0RRzGIvHeXtCRb0xjRil_4KBkWE/view?usp=sharing).
+In a less-than 30 min read I explain v simply [Why Transformers are *Obviously* Good Models of Language](https://arxiv.org/html/2408.03855v1#:~:text=Nobody%20knows%20how%20language%20works,(e.g.%20more%20symbolic)%20mechanisms.).
 
 I hope this is useful reading for anyone hoping to build language-based applications that human users value. 
 <br/>
